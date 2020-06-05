@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section id="news-page">
+	<div class="row align-middle">
+		<div class="column">
+			<h1>News</h1>
+		</div>
+	</div>
+
+	{% for item in site.news reversed %}
+		{% include news-item.html %}
+	{% endfor %}
+
+	<div class="row column">
+		<hr>
+	</div>
+
+</section>
+
+

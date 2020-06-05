@@ -1,0 +1,17 @@
+main_menu:
+  - title: Homepage
+    url: /
+  - title: Team
+    url: /team
+  - title: Research
+    url: /research
+  - title: Publications
+    url: /publications
+  - title: Courses
+    url: /courses
+  - title: News
+    url: /news
+  # - title: Positions
+    # url: /positions
+  - title: Contact
+    url: /contact

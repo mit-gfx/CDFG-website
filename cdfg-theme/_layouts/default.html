@@ -1,0 +1,164 @@
+{% assign version = "0.0.5" %}
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ page.title }} - {{ site.title }}" />
+    <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
+
+    <link rel="stylesheet" href="/cdfg-theme/assets/css/app.min.css?v={{ version }}">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- Open Graph: https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/
+    Twitter: https://dev.twitter.com/docs/cards/types/summary-card
+    ============================== -->
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:url" content="{{ site.url }}"/>
+    <meta property="og:description" content="{{ page.description }}"/>
+    <meta property="og:image" content="{{ page.imageurl }}"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{ site.twitter }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image" content="{{ page.imageurl }}">
+
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body>
+
+    <div class="hide off-canvas position-right" data-off-canvas id="offCanvas">
+      <div class="vertical menu mtl">
+        {% include nav.html %}
+      </div>
+      <button class="close-button" aria-label="Close menu" type="button" data-close>
+        <i class="fas fa-times fa-xs"></i>
+      </button>
+    </div><!-- end .off-canvas -->
+
+    <div class="off-canvas-content" data-off-canvas-content>
+
+		<header>
+			<div class="row align-middle">
+				<div class="column">
+					<h1><a href="/"><span>CDFG</span> <small>{{ site.title }}</small></a></h1>
+				</div>
+				<div class="column shrink text-right">
+                    {% svg "/assets/images/mit-logo.svg" %}
+                    {% svg "/assets/images/csail-logo.svg" %}
+				</div>
+			</div>
+		</header>
+
+		<nav>
+			<a href="#main-menu" id="main-menu-toggle" class="menu-toggle hide-for-large">
+                <span>Menu</span>
+                <div class="hamburger hamburger--spin">
+                    <div class="hamburger-box">
+                        <div class="hamburger-inner"></div>
+                    </div>
+                </div>
+            </a>
+			<div class="main-menu" id="main-menu">
+				<div class="column" style="position: relative;">
+                    <ul>
+			            {% include nav.html %}
+                        <noscript>
+                            <li class="menu-close-wrapper">
+                                <a href="#main-menu-toggle" id="main-menu-close" class="menu-close">Close Menu</a>
+                            </li>
+                        </noscript>
+					</ul>
+                    <input type="text" id="searchbox">
+				</div>
+			</div>
+		</nav>
+
+        <div id="search_container">
+            <div class="row">
+                <div class="column">
+                    <div id="search_results"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-container">
+
+            {{ content }}
+
+            <div class="social-links">
+                <div class="row">
+                    <div class="column shrink">Share this page</div>
+                    <div class="column shrink"><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a></div>
+                    <div class="column shrink"><a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a></div>
+                    <div class="column shrink"><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}&summary={{ site.title | url_encode }}&source={{ site.url }}{{ page.url }}">LinkedIn</a></div>
+                    <div class="column shrink"><a href="mailto:?subject={{ page.title }} | {{ site.title }}&amp;body={{ site.url }}{{ page.url }}"
+   title="Share by Email">Email</a></div>
+                </div>
+            </div>
+
+            <noscript>
+                <div class="footer-menu">
+                    <ul class="menu vertical">
+                        {% include nav.html %}
+                    </ul>
+                </div>
+            </noscript>
+
+            <footer>
+            	<div class="row align-middle">
+            		<div class="column shrink">
+    					<h1>CDFG</h1>
+    					<p><small>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</small></p>
+            		</div>
+            		<div class="column">
+            			<div class="menu align-right">
+            				{% comment %}{% include nav.html %}{% endcomment %}
+            			</div>
+            		</div>
+            	</div>
+            </footer>
+
+          </div><!-- end .grid-container -->
+
+    </div><!-- end .off-canvas-content -->
+
+    <script>
+        (function(){
+            document.querySelector('html').classList.remove('no-js');
+        })()
+    </script>
+    <!-- Loading JavaScripts -->
+    <script src="/cdfg-theme/assets/javascript/app.min.js?v={{ version }}"></script>
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", function(user){
+          if (!user) {
+            window.netlifyIdentity.on("login", function(){
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    {% comment %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-595111-73"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-595111-73');
+    </script>
+    {% endcomment %}
+
+
+  </body>
+</html>

@@ -1,0 +1,7 @@
+---
+title: Computational Photography & Displays
+featured_image: assets/images/research-9.png
+categories: research
+---
+
+The emerging field of computational photography and displays adds general computation capabilities and generalized optics to digital cameras and displays in order to obtain a superior imaging, viewing, and interaction. The main challenge is how to combine the hardware, the associated algorithms, and representations for images and video. In this area, we have been developing  application-specific systems that demonstrate exceptional capabilities by blending custom hardware and novel algorithms. In particular, we have been working on three-dimensional TV, which has a significant potential impact and is expected to be the next big step in digital communications. We have proposed the first complete 3D TV system that allows for scalable real-time acquisition, transmission, and 3D display of dynamic scenes. We have been working on the fundamental algorithms for 3D TV – antialiasing, stereoscopic perception, and multi-view expansion. In the field of computational photography, we have designed imaging systems and associated algorithms for completely automated scene segmentation (e.g., alpha matting) and systems for changing aperture and focus in post-production.

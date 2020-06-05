@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<section id="publication-single">
+	<div class="row medium-unstack align-center">
+		<div class="column small-12 large-9">
+			<a href="/publications"><i class="icon-arrow-left"></i> Publications</a>
+			<h1>{{ page.title }}</h1>
+
+			<h6>Publication</h6>
+			<p class="lead">
+				{{ page.publication }}, {{ page.date | date: "%Y" }}
+			</p>
+
+			<h6>Authors</h6>
+			<p class="lead">
+				{{ page.authors }}
+			</p>
+
+			<div class="project_image" style="margin: 2em 0 2em; width: 100%;">
+				<img src="/{{ page.featured_image }}" style="width: 100%; border: 1px solid #ccc;">
+			</div>
+
+			<h6>Abstract</h6>
+			{{ content }}
+
+			{% if page.acknowledgement %}
+				<h6>Acknowledgement</h6>
+				<p>{{ page.acknowledgement }}</p>
+			{% endif %}
+
+			<h6>Paper</h6>
+			<p>
+				<i class="icon-file"></i> <a href="{{ page.publication_link }}">{{ page.publication_link | replace: 'assets/files/', '' }}</a>
+			</p>
+
+			{% if page.project_website %}
+				<h6>Project Website</h6>
+				<p>
+					<i class="icon-external-link"></i> <a href="{{ page.project_website }}">{{ page.project_website }}</a>
+				</p>
+			{% endif %}
+
+		</div>
+
+
+
+
+	</div>
+</section>

@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+
+<section id="publications-page">
+	<div class="row align-middle">
+		<div class="column">
+			<h1>Publications</h1>
+		</div>
+	</div>
+
+	{% for item in paginator.posts %}
+		{% assign current_date = item.date | date: "%Y" %}
+		{% if current_date != this_date or forloop.first %}
+			<div class="row align-middle">
+				<div class="column">
+					<h3>{{ current_date }}</h3>
+				</div>
+			</div>
+			{% assign this_date = current_date %}
+		{% endif %}
+		<div class="row" >
+			<div class="column">
+				<hr>
+				<div class="row align-justify">
+					<div class="column small-12 medium-6">
+						<a href="{{ item.url }}">
+							<div class="responsive-embed widescreen" style="background-image: url(/{{ item.featured_image }}); background-size: cover; background-position: center center;"></div>
+						</a>
+					</div>
+					<div class="column small-12 medium-6">
+						<span class="date"><small>{{ item.publication }}</small></span>
+
+						<h3 style="margin: 0.5em 0 0.5em;">
+							<a href="{{ item.url }}">
+								{{ item.title }}
+							</a>
+						</h3>
+						<p>
+							<small>{{ item.authors }}</small>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
+	<div class="row column">
+		<hr>
+	</div>
+</section>
+
+{% include paginator.html %}
+
+

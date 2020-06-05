@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% assign categories = "faculty,research staff,postdoctoral associates,phd students,ms/mseng students,alumni" | split: "," %}
+{% assign groups = site.categories.team | group_by: "categories" %}
+
+<section id="team-hero" class="bg-light" style="margin-top: 0;">
+	<div class="row expanded align-middle">
+		<div class="column small-12 large-5">
+			<div class="panel" style="padding: 2em;">
+				<h1 style="margin-top: 0; margin-bottom: 0.5em">Team</h1>
+				<p class="lead">{{ content | remove: '<p>' | remove: '</p>' }}</p>
+			</div>
+		</div>
+		<div class="column small-12 large-7" style="padding: 0;">
+			<img src="{{ page.image }}" style='width: 100%;'>
+		</div>
+	</div>
+</section>
+
+<section id="team-page">
+	<div class="row">
+		<div class="column">
+			<ul class="menu horizontal"  style="margin: 4em 0 0 -1em;">
+				{% for category in categories %}
+					<li><a href="#{{ category | slugify }}" class="scroll">{{ category | capitalize}}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+	{% for category in categories %}
+		<div class="row" style-off="margin-bottom: 4em;">
+			<div class="column">
+				<h2 id="{{ category | slugify }}">{{ category | capitalize }}</h2>
+				<hr>
+				{% for person in site.team  %}
+					{% if person.categories contains category %}
+						<div class="row align-middle team-row" style="margin-bottom: 2em;">
+							<div class="column small-4 medium-2">
+								<div class="icon" style="background-image: url(/{{ person.featured_image }}); background-size: cover; background-position: center; height: 6em; width: 6em;"></div>
+							</div>
+							<div class="column small-8 medium-3">
+								<h4><a href="{{ person.link }}">{{ person.title }}</a></h4>
+							</div>
+							<div class="column small-12 medium-7">
+								{{ person.content }}
+							</div>
+						</div>
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	{% endfor %}
+	<div class="row column">
+		<hr>
+	</div>
+</section>

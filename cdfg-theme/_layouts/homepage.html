@@ -1,0 +1,128 @@
+---
+layout: default
+---
+
+<section id="hero">
+	<div class="row align-middle">
+		<div class="column small-12 medium-6 large-6">
+			<p class="lead">{{ content | remove: '<p>' | remove: '</p>' }}</p>
+		</div>
+		<div class="column">
+			<div class="canvas-wrapper">
+				<div id="canvas"></div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="news">
+	<div class="row align-middle">
+		<div class="column">
+			<h2>News</h2>
+		</div>
+		<div class="column shrink hide-for-small-only">
+			<a href="/news/">View All News <i class="icon-arrow-right"></i></a>
+		</div>
+	</div>
+
+	{% assign news = site.news | where: 'show_on_homepage', true | sort: "date" |  reverse %}
+	{% for item in news limit:3 %}
+		{% include news-item-homepage.html%}
+	{% endfor %}
+
+	<div class="row column shrink show-for-small-only">
+		<a href="/news/" class="button hollow expanded">View All News <i class="icon-arrow-right"></i></a>
+	</div>
+
+</section>
+
+
+<section id="publications" style="margin-top: 4em; margin-bottom: 4em;">
+	<div class="row align-middle homepage-title">
+		<div class="column">
+			<h2>Selected Publications</h2>
+		</div>
+		<div class="column shrink hide-for-small-only hide-for-small-only">
+			<a href="/publications/">View All Publications <i class="icon-arrow-right"></i></a>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="column carouel-wrapper">
+			{% include publications-carousel.html %}
+		</div>
+	</div>
+
+	<div class="row column shrink show-for-small-only" style="margin-top: 2em;">
+		<a href="/publications/" class="button hollow expanded">View All Publications <i class="icon-arrow-right"></i></a>
+	</div>
+
+</section>
+
+<section id="research">
+	<div class="row align-middle homepage-title">
+		<div class="column">
+			<h2>Research</h2>
+		</div>
+		<div class="column shrink hide-for-small-only">
+			<a href="/research/" >View All Research <i class="icon-arrow-right"></i></a>
+		</div>
+	</div>
+
+	<div class="row small-up-1 medium-up-2 large-up-3">
+		{% for post in site.research %}
+			{% include research-item-homepage.html type="research" %}
+		{% endfor %}
+	</div>
+	<div class="row column shrink show-for-small-only">
+		<a href="/research/" class="button hollow expanded">View All Research <i class="icon-arrow-right"></i></a>
+	</div>
+</section>
+
+{% comment %}<script src="/assets/javascript/three.min.js"></script>{% endcomment %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/77/three.min.js" integrity="sha256-5bgKrlU4x5qIxoFqPWN5q+RfzUn49ZLbtFN6A5+TxAQ=" crossorigin="anonymous"></script>
+<script>
+	run3d = function(){
+
+		var w = window.innerWidth / 2;
+		var h = 420;
+
+		var canvas = document.getElementById('canvas'),
+			scene = new THREE.Scene(),
+			camera = new THREE.OrthographicCamera( w / -2, w / 2, h / 2, h / -2, 1, 1500 ),
+			renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+
+		renderer.setSize(w, h);
+		renderer.setClearColor(0xffffff, 0);
+
+		canvas.appendChild(renderer.domElement);
+
+		var radius = w / 2,
+			triangles = 6,
+			sphere = new THREE.Mesh(
+			new THREE.SphereGeometry(radius,triangles,triangles),
+			new THREE.MeshBasicMaterial({
+				color: 0xa31f34,
+				wireframe: true
+			}));
+
+		sphere.position.z = -1000;
+		scene.add(sphere);
+		camera.position.z = 0;
+
+		function render() {
+		  requestAnimationFrame(render);
+		  sphere.rotation.x += 0.001;
+		  sphere.rotation.y += 0.001;
+		  sphere.rotation.z += 0.001;
+
+		  renderer.render(scene, camera);
+		}
+		render();
+	}
+
+	document.addEventListener('DOMContentLoaded', function() {
+	    // alert("Ready!");
+	    run3d()
+	}, false);
+</script>

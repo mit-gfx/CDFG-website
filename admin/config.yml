@@ -1,0 +1,167 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
+public_folder: "/assets/images" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    editor:
+      preview: false
+    files:
+      - label: "Homepage"
+        name: "homepage"
+        file: "pages/index.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "homepage"}
+          - {label: "Permalink", name: permalink", widget: "hidden", default: "/"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Team"
+        name: "team"
+        file: "pages/team.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
+          - {label: "Permalink", name: permalink", widget: "hidden", default: "/team"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Team Photo", name: "image", widget: "image", required: false, allow_multiple: false}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Wojciech"
+        name: "wojciech"
+        file: "pages/wojciech.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "wojciech"}
+          - {label: "Permalink", name: permalink", widget: "hidden", default: "/wojciech"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Department", name: "department", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "courses"
+        label: "Courses"
+        file: "pages/courses.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "courses"}
+          - {label: "Permalink", name: permalink", widget: "hidden", default: "/courses"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
+      - name: "positions"
+        label: "Positions"
+        file: "pages/positions.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "positions"}
+          - {label: "Permalink", name: permalink", widget: "hidden", default: "/positions"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
+
+      - name: "contact"
+        label: "Contact"
+        file: "pages/contact.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "contact"}
+          - {label: "Permalink", name: permalink", widget: "hidden", default: "/contact"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Content", name: "body", widget: "markdown"}
+
+
+  - name: "courses"
+    label: "Courses"
+    folder: "collections/_courses"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "course"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Course Number", name: "number", widget: "string", valueType: "float"}
+      - {label: "Lecturer", name: "lecturer", widget: "string"}
+      - {label: "Semester", name: "semester", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Websites"
+        name: "website"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "name", widget: "string" }
+          - { label: "URL", name: "link", widget: "string" }
+      - {label: "Featured Image", name: "image", widget: "image", required: false, allow_multiple: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+  - name: "news"
+    label: "News"
+    folder: "collections/_news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Show on Homepage?", name: "show_on_homepage", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false, allow_multiple: false}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "publications"
+    label: "Publications"
+    folder: "collections/_publications"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "publication"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Show on Homepage?", name: "show_on_homepage", widget: "boolean", default: false}
+      - {label: "Publication", name: "publication", widget: "string"}
+      - {label: "Publication Link", name: "publication_link", widget: "file", required: false, allow_multiple: false}
+      - {label: "Authors", name: "authors", widget: "string"}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false, allow_multiple: false}
+      - {label: "Project Website", name: "project_website", widget: "string"}
+      - {label: "Acknowlegement", name: "acknowlegement", widget: "markdown", required: false}
+      - {label: "Content", name: "body", widget: "markdown"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+  - name: "research"
+    label: "Research"
+    folder: "collections/_research"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "text"}
+      - {label: "Icon", name: "image", widget: "image", required: false, allow_multiple: false}
+      - {label: "Content", name: "body", widget: "markdown"}
+  - name: "team"
+    label: "Team"
+    folder: "collections/_team"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Photo", name: "featured_image", widget: "image", required: false, allow_multiple: false}
+      - {label: "Website URL", name: "link", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        field: { label: "Category", name: "category", widget: "string" }
+
+  - name: "settings"
+    label: "Settings"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Main Menu Items"
+            name: "main_menu"
+            widget: "list"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Link, name: url, widget: string}

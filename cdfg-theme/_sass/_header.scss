@@ -1,0 +1,66 @@
+
+header {
+
+	padding: 0.5em 0.25em;
+	background-color: var(--primary-color);
+
+	@include breakpoint(medium up) {
+		padding: 1em 0;
+
+	}
+
+	h1 {
+		margin-top: 0;
+		margin-bottom: 0;
+		font-weight: bold;
+
+		@include breakpoint(medium down) {
+			small {
+				display: block;
+				line-height: 1.5;
+			}
+		}
+		a {
+			color: var(--light-color);
+			font-weight: 900;
+
+			&:hover {
+				color: var(--light-color);
+			}
+
+			small {
+				color: var(--light-color) !important;
+				font-weight: normal;
+				font-size: 0.35em;
+				color: inherit;
+
+				@include breakpoint(small down) {
+					font-size: 0.3em;
+				}
+			}
+		}
+	}
+	img, svg {
+		height: 30px;
+		width: auto;
+		vertical-align: middle;
+
+		path, polygon {
+			fill: var(--light-color) !important;
+			stroke-width: 0 !important;
+		}
+
+		&:first-of-type {
+			height: 20px;
+			margin-right: 1em;
+		}
+		@include breakpoint(medium up) {
+			height: 50px;
+
+			&:first-of-type {
+				height: 30px;
+				margin-right: 2em;
+			}
+		}
+	}
+}

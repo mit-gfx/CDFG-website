@@ -1,0 +1,13 @@
+---
+acknowlegement: We would like to thank Junaid Ali, Thomas Leimkühler, Alexandre Kaspar, Krzysztof Templin, Louise van den Heuvel, Tobias Ritschel, and the anonymous subjects who took part in our perceptual studies. This work was partially supported by the Fraunhofer and Max Planck cooperation program within the framework of the German pact for research and innovation (PFI).
+authors: Petr Kellnhofer, Piotr Didyk, Karol Myszkowski, Mohamed M. Hefeeda, Hans-Peter Seidel, Wojciech Matusik
+featured_image: assets/images/gaze3d_itok=uqcYNNMN.png
+layout: publication
+project_website: http://resources.mpi-inf.mpg.de/GazeStereo3D/
+publication: ACM Transactions on Graphics (SIGGRAPH 2016)
+publication_link: assets/files/paper_3.pdf
+title: 'GazeStereo3D: Seamless Disparity Manipulations'
+date: 2016-01-01 12:00:00 -0700
+---
+
+Producing a high quality stereoscopic impression on current displays is a challenging task. The content has to be carefully prepared in order to maintain visual comfort, which typically affects the quality of depth reproduction. In this work, we show that this problem can be significantly alleviated when the eye fixation regions can be roughly estimated. We propose a new method for stereoscopic depth adjustment that utilizes eye tracking or other gaze prediction information. The key idea that distinguishes our approach from the previous work is to apply gradual depth adjustments at the eye fixation stage, so that they remain unnoticeable. To this end, we measure the limits imposed on the speed of disparity changes in various depth adjustment scenarios, and formulate a new model that can guide such seamless stereoscopic content processing. Based on this model, we propose a real-time controller that applies local manipulations to stereoscopic content to find the optimum between depth reproduction and visual comfort. We show that the controller is mostly immune to the limitations of low-cost eye tracking solutions. We also demonstrate benefits of our model in off-line applications, such as stereoscopic movie production, where skillful directors can reliably guide and predict viewers' attention or where attended image regions are identified during eye tracking sessions. We validate both our model and the controller in a series of user experiments. They show significant improvements in depth perception without sacrificing the visual quality when our techniques are applied.

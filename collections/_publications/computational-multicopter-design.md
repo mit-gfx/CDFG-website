@@ -1,0 +1,13 @@
+---
+acknowlegement: 'We thank Nobuyuki Umetani for his insightful suggestions in our discussions. We thank Alan Schultz and his colleagues at NRL for building the hexacopter and for the valuable discussions. We thank Randall Davis, Boris Katz, and Howard Shrobe at MIT for their advice. We are grateful to Nick Bandiera for preprocessing mechanical parts and providing 3D printing technical support; Charles Blouin from RCBenchmark for dynamometer hardware support; Brian Saavedra for the composition UI; Yingzhe Yuan for data acquisition and video recording in the experiments; Michael Foshey and David Kim for their comments on the draft of the paper. This work was partially supported by Air Force Research Laboratory’s sponsorship of Julia: A Fresh Approach to Technical Computing and Data Processing (Sponsor Award ID FA8750-15-2-0272, MIT Award ID 024831-00003), and NSF Expedition project (Sponsor Award ID CCF-1138967, MIT Award ID 020610-00002). The views expressed herein are not endorsed by the sponsors. This project has also received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 645599.'
+authors: Tao Du, Adriana Schulz, Bo Zhu, Bernd Bickel, Wojciech Matusik
+featured_image: assets/images/copter_itok=_v7Pk2s1.jpg
+layout: publication
+project_website: https://github.com/mit-gfx/multicopter_design
+publication: ACM Transactions on Graphics (SIGGRAPH Asia 2016)
+publication_link: assets/files/copter.pdf
+title: Computational Multicopter Design
+date: 2016-01-01 12:00:00 -0700
+---
+
+We present an interactive system for computational design, optimization, and fabrication of multicopters. Our computational approach allows non-experts to design, explore, and evaluate a wide range of different multicopters. We provide users with an intuitive interface for assembling a multicopter from a collection of components (e.g., propellers, motors, and carbon fiber rods). Our algorithm interactively optimizes shape and controller parameters of the current design to ensure its proper operation. In addition, we allow incorporating a variety of other metrics (such as payload, battery usage, size, and cost) into the design process and exploring tradeoffs between them. We show the efficacy of our method and system by designing, optimizing, fabricating, and operating multicopters with complex geometries and propeller configurations. We also demonstrate the ability of our optimization algorithm to improve the multicopter performance under different metrics.

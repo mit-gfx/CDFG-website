@@ -1,0 +1,64 @@
+.card {
+	color: var(--dark-color);
+	height: 100%;
+	border: 0;
+	background-color: $light-gray;
+
+	h3 {
+		font-weight: bold;
+		font-size: 1.125em;
+	}
+	p {
+		font-size: .8em;
+	}
+	.card-section {
+		padding: 1.5em 2em 1em;
+	}
+	.date {
+		display: block;
+		font-size: .6em;
+		margin-bottom: .5em;
+
+		@include breakpoint(medium up) {
+			font-size: .8em;
+		}
+	}
+	&:hover {
+		color: var(--dark-color);
+		border-color: var(--primary-color);
+
+		h3 {
+			color: var(--primary-color);
+		}
+	}
+	&-research {
+		border-color: var(--light-color);
+		color: var(--dark-color);
+
+		svg {
+			margin-bottom: 1em;
+			height: 56px;
+
+			path, circle {
+				fill: var(--primary-color);
+				transition: fill 0.3s;
+			}
+		}
+		h3, p, a {
+			color: var(--dark-color);
+			transition: color 0.3s;
+		}
+		&:hover {
+			color: var(--light-color);
+			background-color: var(--primary-color);
+			border-color: var(--primary-color);
+
+			h3, p, a {
+				color: var(--light-color);
+			}
+			svg path, svg circle {
+				fill: var(--light-color);
+			}
+		}
+	}
+}

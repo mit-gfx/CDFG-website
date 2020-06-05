@@ -1,0 +1,13 @@
+---
+acknowlegement: We thank the anonymous reviewers for their feedback. We are grateful to to Jui-Hsien Wang for early discussion, Ioannis Kymissis and Andrei Shylo for supporting 3D printing facilities, Chang Xiao for iOS development help, Yonghao Yue for rendering advices, Yun Fei for improving the video, Timothy Sun for video narration, Henrique Maia for proofreading, Alec Jacobson for discussion on wind instrument applications. We also thank Syed Haris Ali for open sourcing EZAudio library. PIGGY, OCTOPUS, and BOB are provided by courtesy of www.craftsmanspace.com, Makerbot, and Keenan Crane, respectively. Early part of this research was supported by Dingzeyu Li’s internship at Disney Research. This work was also supported in part by the National Science Foundation (CAREER-1453101) and donations from Adobe. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation or others.
+authors: Dingzeyu Li, David I.W. Levin, Wojciech Matusik, Changxi Zheng
+featured_image: assets/images/acoustic-voxel_itok=6nb-R9HR.jpg
+layout: publication
+project_website: http://www.cs.columbia.edu/cg/lego/
+publication: ACM Transactions on Graphics (SIGGRAPH 2016)
+publication_link: assets/files/paper_4.pdf
+title: 'Acoustic Voxels: Computational Optimization of Modular Acoustic Filters'
+date: 2016-01-01 12:00:00 -0700
+---
+
+Acoustic filters have a wide range of applications, yet customizing them with desired properties is difficult. Motivated by recent progress in additive manufacturing that allows for fast prototyping of complex shapes, we present a computational approach that automates the design of acoustic filters with complex geometries. In our approach, we construct an acoustic filter comprised of a set of parameterized shape primitives, whose transmission matrices can be precomputed. Using an efficient method of simulating the transmission matrix of an assembly built from these underlying primitives, our method is able to optimize both the arrangement and the parameters of the acoustic shape primitives in order to satisfy target acoustic properties of the filter. We validate our results against industrial laboratory measurements and high-quality off-line simulations. We demonstrate that our method enables a wide range of applications including muffler design, musical wind instrument prototyping, and encoding imperceptible acoustic information into everyday objects.

@@ -1,0 +1,7 @@
+---
+date: 2017-07-21 00:00:00
+layout: post
+title: Andrew Spielberg presented a talk at RSS workshop
+---
+
+Last Sunday our PhD student [Andrew Spielberg](http://www.andrewspielberg.com/) presented a talk on "Co-Optimization of Robots and Mechanisms" at this year's RSS workshop on minimality ([minimality.mit.edu](http://minimality.mit.edu/)). In this talk, Andy presented recent work (ICRA '17) on the co-optimization of whole-body robot trajectories and design parameters from high-level task specifications.  Their method requires minimal user domain knowledge, requiring only a coarse guess of the target robot configuration sequence and a parameterized robot topology as input.  Further, this method considers the physical constraints afforded by the actuators, and selects the minimal actuators possible for task feasibility.  Following this work, he also presented methods for improving the fabricability of such mechanisms using cable-driven actuation (SCA '17).  Andy then presented work (IJRR '17) which makes this otherwise mathematically-intensive design process more intuitive for human users by presenting more intuitive, end-to-end CAD-like robot design software.  Finally, Andy discussed some of the most important open problems facing the automated robot design community moving forward.

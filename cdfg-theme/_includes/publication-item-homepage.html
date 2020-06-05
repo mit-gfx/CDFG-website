@@ -1,0 +1,14 @@
+<div class="column" style="margin-bottom: 2em;">
+	<a href="{{ post.url }}">
+		<div class="card">
+			<div class="responsive-embed widescreen" style="background-image: url({{ post.featured_image }}); background-size: cover; background-position: center center;"></div>
+			<div class="card-section">
+				<span class="date">{{ post.publication }}</span>
+				<h3>
+					{{ post.title }}
+				</h3>
+				<p>{{ post.authors }}</p>
+			</div>
+		</div>
+	</a>
+</div>

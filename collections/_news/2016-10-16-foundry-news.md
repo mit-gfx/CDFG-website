@@ -1,0 +1,7 @@
+---
+date: 2016-10-16 00:00:00
+layout: post
+title: Foundry in the news
+---
+
+Our UIST paper **Foundry** has received a lot of media attention ([techcrunch](https://techcrunch.com/2016/10/11/mits-new-software-makes-multi-material-3d-printing-easy/), [3dprint](https://3dprint.com/151849/foundry-mit-csail-3d-modeling/), [mit news](http://news.mit.edu/2016/designing-3-d-printing-foundry-1011), [csail news](https://www.csail.mit.edu/designing_for_3D_printing), [engadget](https://www.engadget.com/2016/10/11/mit-foundry-software-the-photoshop-of-3d-printing/), [zdnet](http://www.zdnet.be/nieuws/186985/mit-ontwikkelt-baanbrekende-photoshop-voor-3d-printers/), [fastweb](http://www.fastweb.it/smartphone-e-gadget/mit-crea-foundry-un-software-per-stampanti-3d-simile-a-photoshop/), [3ders](http://www.3ders.org/articles/20161011-mits-foundry-design-tool-makes-multi-material-3d-printing-easier-and-more-precise-than-ever.html), [3dprintingindustry](https://3dprintingindustry.com/news/foundry-founded-mit-create-photoshop-3d-printing-96780/), [azomaterials](http://www.azom.com/news.aspx?newsID=46586))! Check our [project page](foundry-hierarchical-material-design-multi-material-fabrication.html) for details!

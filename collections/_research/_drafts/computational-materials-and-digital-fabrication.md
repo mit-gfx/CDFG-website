@@ -1,0 +1,9 @@
+---
+title: Computational Materials & Digital Fabrication
+featured_image: assets/images/research-10.png
+categories: research
+---
+
+Designing mathematical models that accurately represent and predict physical properties of real world materials is a central component in computer graphics as well as mechanical engineering and materials science. The problem is challenging because real world materials exhibit extraordinary variety and complexity. We have approached this problem by constructing acquisition devices to measure properties of real world materials and then deriving accurate data-driven models from these measurements. In particular, we have developed data-driven representations for texture, reflectance, spatially-varying reflectance, time-varying reflectance, subsurface scattering, and elastic material behavior.
+
+We also focus on the reverse process – conversion from virtual to physical materials and objects using different fabrication methods. Our research goes beyond traditional, single material 3D printing by providing tools for fabricating complex, multi-material objects with desired visual and physical material properties. We have been developing a complete process and software/hardware framework that allows moving from abstract computer models to their physical counterparts efficiently and accurately. In the process, we have been addressing the following fundamental challenges: (1) developing representations and corresponding user-interfaces for designing complex, multi-material objects; (2) accurate and efficient simulation methods that can interactively predict properties and behavior of multi-material designs without physically generating it; (3) scalable and efficient architectures that convert multi-material models to inputs for 3D printers; (4) designing modular, high-resolution 3D printers that allow manufacturing multi-material composites made from a wide range of materials.

@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<section id="courses-page">
+	<div class="row align-middle">
+		<div class="column">
+			<h1>Courses</h1>
+			<p class="lead">
+				{{ content | strip_html }}
+			</p>
+		</div>
+	</div>
+
+	{% for item in site.courses %}
+		<div class="row course-row" >
+			<div class="column">
+				<hr>
+				<div class="row align-">
+					<div class="column small-12 medium-5">
+						<span class="date">{{ item.number }}</span>
+						<h2>
+								{{ item.title }}
+						</h2>
+						<p>
+							<strong>Lecturer:</strong> {{ item.lecturer }}<br>
+							<strong>Semester:</strong> {{ item.semester }}<br>
+						</p>
+
+						<h6>Lecturer</h6>
+						<p>{{ item.lecturer }}</p>
+
+						<h6>Semester</h6>
+						<p>{{ item.semester }}</p>
+
+						<h6>Website{% if item.website.size > 1 %}s{% endif %}</h6>
+						{% for website in item.website %}
+							<li>
+								<a href="{{ website.link }}">{{ website.name }}</a>
+							</li>
+						{% endfor %}
+					</div>
+					<div class="column">
+						<span class="date">&nbsp;</span>
+						{% comment %}<p>{% endcomment %}
+						{{ item.content }}
+						{% comment %}</p>{% endcomment %}
+					</div>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
+	<div class="row column">
+		<hr>
+	</div>
+
+</section>

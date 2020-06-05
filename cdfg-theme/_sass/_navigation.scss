@@ -1,0 +1,140 @@
+nav {
+	background-color: var(--dark-color);
+	z-index: 9999;
+
+	.main-menu {
+
+		@extend .row;
+		@extend .collapse;
+
+		@include breakpoint(medium down) {
+			display: none;
+
+			.menu-open & {
+				display: block;
+			}
+
+			.no-js &:target {
+				padding-bottom: 1em;
+			}
+			.no-js &:target ul {
+				display: block;
+				margin-bottom: 2em;
+			}
+		}
+
+		ul {
+			@extend .row;
+			@extend .align-justify;
+
+			list-style-type: none;
+			margin: 0;
+
+			@include breakpoint(medium down) {
+				margin-bottom: 5.5em;
+				display: none;
+
+				.menu-open & {
+					display: block;
+				}
+			}
+
+			li {
+				@extend .column;
+				@extend .small-12;
+				@extend .medium-expand;
+				@extend .shrink;
+				text-decoration: none;
+
+				&.active {
+					a {
+						color: scale-color($primary-color, $lightness: 30% );
+					}
+				}
+
+				a {
+					display: block;
+					padding-top: 1em;
+					padding-bottom: 0em;
+					color: var(--light-color);
+					text-decoration: none;
+
+					&:hover {
+						color: $dark-gray;
+					}
+
+					@include breakpoint(small down) {
+						padding-left: 0.35em;
+						padding-right: 0.35em;
+
+					}
+
+					@include breakpoint(medium up) {
+						padding-bottom: 1em;
+					}
+				}
+			}
+		}
+
+	}
+
+	.menu-toggle {
+		background-color: var(--dark-color);
+		color: var(--light-color);
+		display: block;
+		width: 100%;
+		text-align: left;
+		padding: 1em;
+
+
+
+		&:hover, &:active, &:focus {
+			outline: none;
+		}
+	}
+}
+
+.menu-close-wrapper {
+	@include breakpoint(large up) {
+		display: none;
+	}
+}
+
+#search_button {
+	svg {
+		path {
+			fill: var(--light-color);
+			transition: fill 0.3s;
+		}
+	}
+
+	&:hover {
+		svg path {
+			fill: var(--primary-color);
+		}
+	}
+}
+
+
+.pagination {
+	li {
+		a {
+			text-decoration: none;
+		}
+	}
+}
+
+
+.footer-menu {
+	margin-top: 2em;
+	margin-bottom: -4em;
+	ul {
+		li {
+			a {
+				border-top: 1px solid $medium-gray;
+				text-decoration: none;
+				padding: 1em 1.5em;
+			}
+		}
+	}
+}

@@ -1,0 +1,47 @@
+<div class='demo-container'>
+  <div class='carousel'>
+    <input checked='checked' class='carousel__activator' id='carousel-slide-activator-1' name='carousel' type='radio'>
+    <input class='carousel__activator' id='carousel-slide-activator-2' name='carousel' type='radio'>
+    <input class='carousel__activator' id='carousel-slide-activator-3' name='carousel' type='radio'>
+    <div class='carousel__controls'>
+      <label class='carousel__control carousel__control--forward' for='carousel-slide-activator-2'>
+        <i class="icon-arrow-right"></i>
+      </label>
+    </div>
+    <div class='carousel__controls'>
+      <label class='carousel__control carousel__control--backward' for='carousel-slide-activator-1'>
+        <i class="icon-arrow-left"></i>
+      </label>
+      <label class='carousel__control carousel__control--forward' for='carousel-slide-activator-3'>
+        <i class="icon-arrow-right"></i>
+      </label>
+    </div>
+    <div class='carousel__controls'>
+      <label class='carousel__control carousel__control--backward' for='carousel-slide-activator-2'>
+        <i class="icon-arrow-left"></i>
+      </label>
+    </div>
+    <div class='carousel__screen'>
+      <div class='carousel__track'>
+        {% assign publications = site.publications | where: 'show_on_homepage', true | sort: "date" |  reverse %}
+        {% for post in publications limit:9 %}
+            <div class='carousel__item carousel__item--mobile-in-1 carousel__item--tablet-in-2 carousel__item--desktop-in-3'>
+              <a href="{{ post.url }}">
+                <div class="card carousel-card">
+                  <div class="responsive-embed widescreen" style="background-image: url({{ post.featured_image }}); background-size: cover; background-position: center center;"></div>
+
+                  <div class="card-section">
+                    <span class="date">{{ post.publication }}</span>
+                    <h3>
+                      {{ post.title }}
+                    </h3>
+                    <p>{{ post.authors }}</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

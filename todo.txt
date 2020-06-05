@@ -1,0 +1,6 @@
+- code cleaup
+- lazy load images
+- image optimization
+- redirects
+- seo audit
+	- get metadata from existing site

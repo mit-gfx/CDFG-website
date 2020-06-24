@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Accepted To Physical Review Letters
+title: Paper accepted to Physical Review Letters
 date: 2020-04-02 12:00:00 -0700
 show_on_homepage: true
 ---

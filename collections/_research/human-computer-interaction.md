@@ -5,6 +5,6 @@ image: assets/images/icon-interaction.svg
 show_content: true
 ---
 
-Design tools and user interface to simplify user design and fabrication (3d printing and weft knitting machines),
-and crowdsourcing of complex user design tasks (video segmentation).
+* Tools and user interfaces to simplify design and fabrication (3d printing and weft knitting machines),
+* Crowdsourcing of complex design tasks (video segmentation).
 

@@ -8,4 +8,4 @@ link: ''
 title: Jie Xu
 ---
 
-[**Jie Xu**](http://people.csail.mit.edu/jiex/) is a graduate student in Computer Science who joined the CFG in September 2016. He obtained his Bachelor's degree at Tsinghua University in 2016.
+[**Jie Xu**](http://people.csail.mit.edu/jiex/) is a graduate student in Computer Science who joined the CDFG in September 2016. He obtained his Bachelor's degree at Tsinghua University in 2016.

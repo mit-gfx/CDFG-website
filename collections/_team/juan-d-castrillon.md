@@ -8,4 +8,4 @@ link: ''
 title: Juan D Castrillon
 ---
 
-**Juan D Castrillon** joins the CFG as a SuperUROP (no capes) in the fall of 2015.
+**Juan D Castrillon** joins the CDFG as a SuperUROP (no capes) in the fall of 2015.

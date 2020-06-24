@@ -8,4 +8,4 @@ link: ''
 title: Nick Bandiera
 ---
 
-[**Nick Bandiera**](http://bandiera.scripts.mit.edu/bandiera/) joins the CFG in Fall 2015 and will be using his MechE chops on the carbon fiber 3D printing project.
+[**Nick Bandiera**](http://bandiera.scripts.mit.edu/bandiera/) joins the CDFG in Fall 2015 and will be using his MechE chops on the carbon fiber 3D printing project.

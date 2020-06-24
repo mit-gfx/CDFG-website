@@ -7,7 +7,12 @@
 					{{ post.title }}
 				</h3>
 				<p>
-					{{ post.excerpt }}
+        alex
+          {% if post.show_content %}
+          {{ post.excerpt }}
+          {% else %}
+          {{ post.content }}
+          {% endif %}
 				</p>
 			</div>
 		</div>

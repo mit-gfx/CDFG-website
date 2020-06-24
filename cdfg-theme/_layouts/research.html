@@ -28,7 +28,11 @@ layout: default
 					</div>
 					<div class="column small-12 medium-6">
 						<p>
+            {% if item.show_content %}
+              {{ item.content }}
+            {% else %}
 							{{ item.excerpt }}
+            {% endif %}
 						</p>
 					</div>
 				</div>

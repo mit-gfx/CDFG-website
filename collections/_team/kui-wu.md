@@ -8,4 +8,4 @@ link: http://www.cs.utah.edu/~kwu/
 title: Kui Wu
 ---
 
-**[Kui Wu](http://www.cs.utah.edu/~kwu/)** joined us in 2019 summer, after obtaining his Ph.D. in Cmoputer Science from University of Utah. Kui is helping us in multiple projects with his simulation and knitting expertise.
+**[Kui Wu](http://www.cs.utah.edu/~kwu/)** joined us in 2019 summer, after obtaining his Ph.D. in Computer Science from University of Utah. Kui is helping us in multiple projects with his simulation and knitting expertise.

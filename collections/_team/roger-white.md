@@ -6,4 +6,4 @@ categories:
   - team
   - administrators
 ---
-Hi! I'm Roger.
+Roger joined our group as the administrative assistant in April 2019.

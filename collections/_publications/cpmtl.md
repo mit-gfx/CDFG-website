@@ -4,7 +4,7 @@ authors: Pingchuan Ma*, Tao Du*, Wojciech Matusik
 featured_image: assets/images/cpmtl.png
 layout: publication
 project_website: https://mit-gfx.github.io/ContinuousParetoMTL/
-publication: ICML 2020
+publication: ICML
 publication_link: https://arxiv.org/abs/2006.16434
 title: Efficient Continuous Pareto Exploration in Multi-Task Learning
 date: 2020-06-30 12:00:00 -0700

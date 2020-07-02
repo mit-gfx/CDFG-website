@@ -3,8 +3,9 @@ acknowlegement: 'We thank Ryan Gulland, Mohammed Al Jashmi, and Abdelgadir Balla
 authors: Jie Xu, Tao Du, Michael Foshey, Beichen Li, Bo Zhu, Adriana Schulz, Wojciech Matusik
 featured_image: assets/images/learning_to_fly_itok=LAvaeIge.png
 layout: publication
+project_website: https://people.csail.mit.edu/jiex/papers/LearningToFly/index.html
 show_on_homepage: true
-publication: SIGGRAPH 2019
+publication: SIGGRAPH
 publication_link: assets/files/l2fly.pdf
 title: 'Learning to Fly: Computational Controller Design for Hybrid UAVs with Reinforcement Learning'
 date: 2019-01-01 12:00:00 -0700

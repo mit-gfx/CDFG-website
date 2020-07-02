@@ -3,7 +3,7 @@ acknowlegement: We thank Tae-Hyun Oh for his insightful suggestions and construc
 authors: Pingchuan Ma*, Tao Du*, Wojciech Matusik
 featured_image: assets/images/cpmtl.png
 layout: publication
-project_website: https://mit-gfx.github.io/ContinuousParetoMTL/
+project_website: http://cpmtl.csail.mit.edu/
 publication: ICML
 publication_link: https://arxiv.org/abs/2006.16434
 title: Efficient Continuous Pareto Exploration in Multi-Task Learning

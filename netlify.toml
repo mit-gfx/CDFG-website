@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://cdfg-website.netlify.app"
+  to = "https://cdfg.mit.edu"
+  status = 301
+  force = true

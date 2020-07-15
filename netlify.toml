@@ -3,3 +3,9 @@
   to = "https://cdfg.mit.edu"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://cfg.mit.edu"
+  to = "https://cdfg.mit.edu"
+  status = 301
+  force = true

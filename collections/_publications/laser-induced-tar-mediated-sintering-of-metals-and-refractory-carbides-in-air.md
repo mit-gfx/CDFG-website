@@ -8,28 +8,4 @@ authors: Xining Zang, Kiera Y. Tai, Cuiying Jian, Wan Shou,Wojciech Matusik,
   Nicola Ferralis, and Jeffrey C. Grossman
 date: 2020-08-06T14:45:00.000Z
 ---
-“Just Accepted” manuscripts have been peer-reviewed and accepted for publication. They are posted
-
-online prior to technical editing, formatting for publication and author proofing. The American Chemical
-
-Society provides “Just Accepted” as a service to the research community to expedite the dissemination
-
-of scientific material as soon as possible after acceptance. “Just Accepted” manuscripts appear in
-
-full in PDF format accompanied by an HTML abstract. “Just Accepted” manuscripts have been fully
-
-peer reviewed, but should not be considered the official version of record. They are citable by the
-
-Digital Object Identifier (DOI®). “Just Accepted” is an optional service offered to authors. Therefore,
-
-the “Just Accepted” Web site may not include all articles that will be published in the journal. After
-
-a manuscript is technically edited and formatted, it will be removed from the “Just Accepted” Web
-
-site and published as an ASAP article. Note that technical editing may introduce minor changes
-
-to the manuscript text and/or graphics which could affect content, and all legal disclaimers and
-
-ethical guidelines that apply to the journal pertain. ACS cannot be held responsible for errors or
-
-consequences arising from the use of information contained in these “Just Accepted” manuscripts.
+Refractory Metals and their carbides possess extraordinary chemical and temperature resilience and exceptional mechanical strength. Yet, they are notoriously difficult to employ in additive manufacturing, due to the high temperatures needed for processing. State of the art approaches to manufacture these materials generally require either a high-energy laser or electron beam as well as ventilation to protect the metal powder from combustion. Here, we present a versatile manufacturing process that utilizes tar as both a light absorber and antioxidant binder to sinter thin films of aluminum, copper, nickel, molybdenum, and tungsten powder using a low power (< 2W) CO2 laser in air. Films of sintered Al/Cu/Ni metals have sheet resistances of \~10-1 ohm/sq, while laser sintered Mo/W-tar thin films form carbide phases. Several devices are demonstrated, including laser sintered porous copper with a stable response to large strain (3.0) after 150 cycles, and a laser processed Mo/MoC(1-x) filament that reaches T\~1000 oC in open air at 12 V. These results show that tar mediated laser sintering represents a possible low-energy, cost-effective route for engineering refractory materials, and one that can easily be extended to additive manufacturing processes.

@@ -111,12 +111,12 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "publication"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Show on Homepage?", name: "show_on_homepage", widget: "boolean", default: false}
+      - {label: "Show on Homepage?", name: "show_on_homepage", widget: "boolean", default: false, required: false}
       - {label: "Publication", name: "publication", widget: "string"}
       - {label: "Publication Link", name: "publication_link", widget: "file", required: false, allow_multiple: false}
       - {label: "Authors", name: "authors", widget: "string"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false, allow_multiple: false}
-      - {label: "Project Website", name: "project_website", widget: "string"}
+      - {label: "Project Website", name: "project_website", widget: "string", required: false}
       - {label: "Acknowlegement", name: "acknowlegement", widget: "markdown", required: false}
       - {label: "Content", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}

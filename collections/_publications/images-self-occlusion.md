@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Marc Alexa and Wojciech Matusik
-featured_image: assets/images/occlusion_0_itok=7A0cQaBD.jpg
+featured_image: /assets/images/occlusion_0_itok=7A0cQaBD.jpg
 layout: publication
 date: 2011-01-01 12:00:00 -0700
 publication: Computational Aesthetics 2011
-publication_link: assets/files/ifso.pdf
+publication_link: /assets/files/ifso.pdf
 title: Images from Self-Occlusion
 ---
 

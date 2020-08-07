@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Michael Holroyd, Ilya Baran, Jason Lawrence, and Wojciech Matusik
-featured_image: assets/images/multi_layer_models_itok=mCISMotj.jpg
+featured_image: /assets/images/multi_layer_models_itok=mCISMotj.jpg
 layout: publication
 date: 2011-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2011)
-publication_link: assets/files/cfmlm.pdf
+publication_link: /assets/files/cfmlm.pdf
 title: Computing and Fabricating Multilayer Models
 date: 2011-01-01 12:00:00 -0700
 ---

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Nicola Ranieri, Simon Heinzle, Quinn Smithwick, Daniel Reetz, Lanny S. Smoot, Wojciech Matusik, Markus Gross
-featured_image: assets/images/multi_layer_itok=UqoZEMVt.jpg
+featured_image: /assets/images/multi_layer_itok=UqoZEMVt.jpg
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: 'Computer Graphics Forum 31(7-2), (Pacific Graphics) 2012 '
-publication_link: assets/files/Ran12.pdf
+publication_link: /assets/files/Ran12.pdf
 title: Multi-Layered Automultiscopic Displays
 ---
 

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: S. Coros, B. Thomaszewski, G. Noris, S. Sueda, M. Forberg, R. W. Sumner, W. Matusik, B. Bickel
-featured_image: assets/images/cybertiger_itok=UyZ8APeO.png
+featured_image: /assets/images/cybertiger_itok=UyZ8APeO.png
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2013)
-publication_link: assets/files/CDMC_0.pdf
+publication_link: /assets/files/CDMC_0.pdf
 title: Computational Design of Mechanical Characters
 ---
 

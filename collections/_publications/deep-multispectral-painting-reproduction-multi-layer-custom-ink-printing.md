@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Liang Shi, Vahid Babaei, Changil Kim, Michael Foshey, Yuanming Hu, Pitchaya Sitthi-Amorn, Szymon Rusinkiewicz, Wojciech Matusik
-featured_image: assets/images/deep_multispectral_painting_itok=HmVKw0Wl.png
+featured_image: /assets/images/deep_multispectral_painting_itok=HmVKw0Wl.png
 layout: publication
 project_website: http://people.csail.mit.edu/liangs/papers/ToG18.pdf
 publication: ACM SIGGRAPH ASIA 2018

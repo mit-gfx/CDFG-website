@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Fredrik Kjolstad, Shoaib Kamil, Jonathan Ragan-Kelley, David I. W. Levin, Shinjiro Sueda, Desai Chen, Etienne Vouga, Danny M. Kaufman, Gurtej Kanwar, Wojciech Matusik, Saman Amarasinghe
-featured_image: assets/images/simit_itok=Sz8V0o99.jpg
+featured_image: /assets/images/simit_itok=Sz8V0o99.jpg
 layout: publication
 project_website: http://simit-lang.org/
 publication: ACM Transactions on Graphics 2016
-publication_link: assets/files/simit_0.pdf
+publication_link: /assets/files/simit_0.pdf
 title: 'Simit: A Language for Physical Simulation'
 date: 2016-01-01 12:00:00 -0700
 ---

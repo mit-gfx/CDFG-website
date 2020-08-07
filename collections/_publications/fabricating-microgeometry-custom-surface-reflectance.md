@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Tim Weyrich, Pieter Peers,Wojciech Matusik, Szymon Rusinkiewicz
-featured_image: assets/images/microprint_itok=fufHAeRb.jpg
+featured_image: /assets/images/microprint_itok=fufHAeRb.jpg
 layout: publication
 date: 2019-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2009)
-publication_link: assets/files/MicrofacetFabLowRes.pdf
+publication_link: /assets/files/MicrofacetFabLowRes.pdf
 title: Fabricating Microgeometry for Custom Surface Reflectance
 ---
 

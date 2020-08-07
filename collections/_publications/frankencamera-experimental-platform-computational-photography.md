@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Andrew Adams, Eino-Ville Talvala, Sung Hee Park, David E. Jacobs, Boris Ajdin, Natasha Gelfand, Jennifer Dolson, Daniel Vaquero, Jongmin Baek, Marius Tico, Hendrik P. A. Lensch, Wojciech Matusik, Kari Pulli, Mark Horowitz, Marc Levoy
-featured_image: assets/images/fcam_1_itok=yobrUQ2d.jpg
+featured_image: /assets/images/fcam_1_itok=yobrUQ2d.jpg
 layout: publication
 project_website: http://graphics.stanford.edu/papers/fcam/
 publication: Communications of the ACM, 55(11), 2012
-publication_link: assets/files/adams-frankencamera-cacm12.pdf
+publication_link: /assets/files/adams-frankencamera-cacm12.pdf
 title: 'The Frankencamera: an experimental platform for computational photography'
 date: 2013-01-01 12:00:00 -0700
 ---

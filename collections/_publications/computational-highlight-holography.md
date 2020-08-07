@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Christian Regg, Szymon Rusinkiewicz, Wojciech Matusik, Markus Gross
-featured_image: assets/images/holo_itok=WNZk071Z.jpg
+featured_image: /assets/images/holo_itok=WNZk071Z.jpg
 layout: publication
 date: 2010-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2010)
-publication_link: assets/files/HighlightHolography.pdf
+publication_link: /assets/files/HighlightHolography.pdf
 title: ' Computational Highlight Holography'
 ---
 

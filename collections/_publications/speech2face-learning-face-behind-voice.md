@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Tae-Hyun Oh*, Tali Dekel*, Changil Kim*, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Wojciech Matusik (* Equally contributed)
-featured_image: assets/images/s2f.PNG_itok=pgoeh1JU.png
+featured_image: /assets/images/s2f.PNG_itok=pgoeh1JU.png
 layout: publication
 publication: CVPR 2019
 publication_link: ''

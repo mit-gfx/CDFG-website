@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Xianchen Xu, Chen Wang, Wan Shou, Zongliang Du, Yangyang Chen, Beichen Li, Wojciech Matusik, Nassar Hussein, and Guoliang Huang
-featured_image: assets/images/prl.jpg
+featured_image: /assets/images/prl.jpg
 layout: publication
 publication: Physical Review Letters
 publication_link: /assets/files/prl.pdf

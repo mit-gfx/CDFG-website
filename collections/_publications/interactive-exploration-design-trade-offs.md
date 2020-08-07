@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: 'Adriana Schulz, Harrison Wang, Eitan Grinspun, Justin Solomon, Wojciech Matusik'
-featured_image: assets/images/pareto_itok=oxl0lU1A.png
+featured_image: /assets/images/pareto_itok=oxl0lU1A.png
 layout: publication
 project_website: https://homes.cs.washington.edu/~adriana/tradeoffs/index.html
 publication: ACM SIGGRAPH 2018
-publication_link: assets/files/design_tradeoff.pdf
+publication_link: /assets/files/design_tradeoff.pdf
 title: Interactive Exploration of Design Trade-Offs
 date: 2018-01-01 12:00:00 -0700
 ---

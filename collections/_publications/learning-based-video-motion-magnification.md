@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Tae-Hyun Oh*, Ronnachai Jaroensri*, Changil Kim, Mohamed Elgharib, Frédo Durand, William T. Freeman, Wojciech Matusik
-featured_image: assets/images/video-motion-mag.PNG_itok=5ro-X9zv.png
+featured_image: /assets/images/video-motion-mag.PNG_itok=5ro-X9zv.png
 layout: publication
 project_website: http://people.csail.mit.edu/tiam/deepmag/
 publication: ECCV 2018 (oral)
-publication_link: assets/files/video-motion-mag.pdf
+publication_link: /assets/files/video-motion-mag.pdf
 title: Learning-based Video Motion Magnification
 date: 2018-01-01 12:00:00 -0700
 ---

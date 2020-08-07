@@ -1,11 +1,11 @@
 ---
 acknowlegement: This work is funded in part by the QCRI–CSAIL computer science research program. Changil Kim is supported by a Swiss National Science Foundation fellowship P2EZP2 168785. We thank Sung-Ho Bae for his help in this work.
 authors: Changil Kim, Hijung Valentina Shin, Tae-Hyun Oh, Alexandre Kaspar, Mohamed Elgharib, Wojciech Matusik
-featured_image: assets/images/accv_2018.JPG_itok=jHlZyNk_.jpeg
+featured_image: /assets/images/accv_2018.JPG_itok=jHlZyNk_.jpeg
 layout: publication
 project_website: http://facevoice.csail.mit.edu/
 publication: ACCV 2018
-publication_link: assets/files/face-voice-accv-2018.pdf
+publication_link: /assets/files/face-voice-accv-2018.pdf
 title: On Learning Associations of Faces and Voices
 date: 2018-01-01 12:00:00 -0700
 ---

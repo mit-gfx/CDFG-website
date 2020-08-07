@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Xavier Snelgrove, Thiago Pereira, Wojciech Matusik, Marc Alexa
-featured_image: assets/images/parallax_walls_itok=D8-pbfP4.jpg
+featured_image: /assets/images/parallax_walls_itok=D8-pbfP4.jpg
 layout: publication
 project_website: http://www.sciencedirect.com/science/article/pii/S009784931300112X
 publication: Computers and Graphics, 37(8), 2013

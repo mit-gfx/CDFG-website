@@ -1,10 +1,10 @@
 ---
 acknowlegement: This work was supported by the DARPA SIMPLEX program through SPAWAR under contract no. N66001-15-C-4030. The views expressed are those of the authors and do not reflect the official policy or position of the DoD or the U.S. Government. We thank Nicholas G. Bandiera for careful reading of the manuscript and discussions.
 authors: Subramanian Sundaram, David S. Kim, Marc A. Baldo, Ryan C. Hayward, and Wojciech Matusik
-featured_image: assets/images/3d-printed-self-folding-electronics_itok=YZFStIAa.jpg
+featured_image: /assets/images/3d-printed-self-folding-electronics_itok=YZFStIAa.jpg
 layout: publication
 publication: Applied Materials & Interfaces
-publication_link: assets/files/3d-printed-self-folding-electronics.pdf
+publication_link: /assets/files/3d-printed-self-folding-electronics.pdf
 title: 3D-Printed Self-Folding Electronics
 date: 2017-01-01 12:00:00 -0700
 ---

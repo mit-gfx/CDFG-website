@@ -1,10 +1,10 @@
 ---
 acknowlegement: ''
 authors: Sung-Ho Bae, Mohamed Elgharib, Mohamed Hefeeda, Wojciech Matusik
-featured_image: assets/images/efficient_scalable_view_gen_itok=JlhvdAlM.png
+featured_image: /assets/images/efficient_scalable_view_gen_itok=JlhvdAlM.png
 layout: publication
 publication: CoRR abs/1705.03737 (2017)
-publication_link: assets/files/efficient_scalable_view_gen.pdf
+publication_link: /assets/files/efficient_scalable_view_gen.pdf
 title: Efficient and Scalable View Generation from a Single Image using Fully Convolutional Networks
 date: 2017-01-01 12:00:00 -0700
 ---

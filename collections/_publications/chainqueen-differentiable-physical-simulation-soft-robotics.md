@@ -1,10 +1,10 @@
 ---
 acknowlegement: ''
 authors: Yuanming Hu, Jiancheng Liu*, Andrew Spielberg*, Joshua B. Tenenbaum, William T. Freeman, Jiajun Wu, Daniela Rus, Wojciech Matusik
-featured_image: assets/images/chain_queen_0_itok=kmYndvNR.png
+featured_image: /assets/images/chain_queen_0_itok=kmYndvNR.png
 layout: publication
 publication: ICRA 2019
-publication_link: assets/files/chain_queen_0.pdf
+publication_link: /assets/files/chain_queen_0.pdf
 title: 'ChainQueen: Differentiable Physical Simulation for Soft Robotics'
 date: 2019-01-01 12:00:00 -0700
 ---

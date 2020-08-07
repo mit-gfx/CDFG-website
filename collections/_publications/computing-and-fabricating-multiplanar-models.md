@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Desai Chen, Pitchaya Sitthi-amorn, Justin T. Lan, and Wojciech Matusik
-featured_image: assets/images/multiplanar_itok=6mKw9hgd.jpg
+featured_image: /assets/images/multiplanar_itok=6mKw9hgd.jpg
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: Computer Graphics Forum (EUROGRAPHICS 2013)
-publication_link: assets/files/cut2013.pdf
+publication_link: /assets/files/cut2013.pdf
 title: Computing and Fabricating Multiplanar Models
 ---
 

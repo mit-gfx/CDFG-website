@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Alexandre Kaspar*, Tae-Hyun Oh*, Liane Makatura, Petr Kellnhofer, Jacqueline Aslarus, and Wojciech Matusik
-featured_image: assets/images/teaser_2_itok=lyXmHHMJ.jpg
+featured_image: /assets/images/teaser_2_itok=lyXmHHMJ.jpg
 layout: publication
 project_website: http://deepknitting.csail.mit.edu/
 publication: ICML 2019
-publication_link: assets/files/kaspar19a_2.pdf
+publication_link: /assets/files/kaspar19a_2.pdf
 title: 'Neural Inverse Knitting: From Images to Manufacturing Instructions'
 date: 2019-01-01 12:00:00 -0700
 show_on_homepage: true

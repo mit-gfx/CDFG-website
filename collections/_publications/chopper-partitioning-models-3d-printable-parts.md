@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Linjie Luo, Ilya Baran, Szymon Rusinkiewicz, and Wojciech Matusik
-featured_image: assets/images/chopper_0_itok=j_aN8Sqx.jpg
+featured_image: /assets/images/chopper_0_itok=j_aN8Sqx.jpg
 layout: publication
 project_website: http://gfx.cs.princeton.edu/pubs/Luo_2012_CPM/
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2012)
-publication_link: assets/files/chopper.pdf
+publication_link: /assets/files/chopper.pdf
 title: 'Chopper: Partitioning Models into 3D-Printable Parts'
 date: 2013-01-01 12:00:00 -0700
 ---

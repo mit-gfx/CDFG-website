@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Ariel Shamir, Bernd Bickel, Wojciech Matusik
-featured_image: assets/images/computational-tools-for-3d-printing_itok=d9VTpV53.jpg
+featured_image: /assets/images/computational-tools-for-3d-printing_itok=d9VTpV53.jpg
 layout: publication
 project_website: http://computational-fabrication.com/2016/
 publication: ACM Siggraph 2016 Course

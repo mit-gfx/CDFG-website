@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: 'Wojciech Matusik, Boris Ajdin, Jinwei Gu, Jason Lawrence, Hendrik P. A. Lensch, Fabio Pellacini, and Szymon Rusinkiewicz. '
-featured_image: assets/images/svbrdfprint_itok=Y_kOzi4o.jpg
+featured_image: /assets/images/svbrdfprint_itok=Y_kOzi4o.jpg
 layout: publication
 date: 2009-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2009)
-publication_link: assets/files/ReflectancePrinting.pdf
+publication_link: /assets/files/ReflectancePrinting.pdf
 title: Printing Spatially-Varying Reflectance
 show_on_homepage: true
 ---

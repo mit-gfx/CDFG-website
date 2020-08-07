@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Olivier Rouiller, Bernd Bickel, Jan Kautz, Wojciech Matusik, and Marc Alexa
-featured_image: assets/images/svBRDF_0_itok=FK5Z5WiE.jpg
+featured_image: /assets/images/svBRDF_0_itok=FK5Z5WiE.jpg
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: 'IEEE Computer Graphics and Applications, 33(6), 2013 '
-publication_link: assets/files/svBRDF.pdf
+publication_link: /assets/files/svBRDF.pdf
 title: ' 3D-Printing Spatially Varying BRDFs'
 ---
 

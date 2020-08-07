@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Adriana Schulz
-featured_image: assets/images/aschulz_thesis_itok=mH4w9OP_.png
+featured_image: /assets/images/aschulz_thesis_itok=mH4w9OP_.png
 layout: publication
 date: 2018-01-01 12:00:00 -0700
 publication: PhD Thesis

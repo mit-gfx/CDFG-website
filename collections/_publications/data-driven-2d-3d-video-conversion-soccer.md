@@ -1,11 +1,11 @@
 ---
 acknowlegement: 'This research was supported in part by NSERC (Natural Sciences and Engineering Research Council of Canada), the QCRI-CSAIL partnership, NSF grant IIS-1111415.'
 authors: Kiana Calagari, Mohamed Elgharib, Piotr Didyk, Alexandre Kaspar, Wojciech Matusik, Mohamed Hefeeda
-featured_image: assets/images/data-driven-soccer-video-conversion.JPG_itok=_a7fOFWN.jpeg
+featured_image: /assets/images/data-driven-soccer-video-conversion.JPG_itok=_a7fOFWN.jpeg
 layout: publication
 date: 2017-01-01 12:00:00 -0700
 publication: IEEE Transactions on Multimedia
-publication_link: assets/files/data-driven-soccer-video-conversion.pdf
+publication_link: /assets/files/data-driven-soccer-video-conversion.pdf
 title: Data Driven 2D-to-3D Video Conversion for Soccer
 ---
 

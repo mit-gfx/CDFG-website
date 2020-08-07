@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Simon Heinzle, Pierre Greisen, David Gallup, Christine Chen, Daniel Saner, Aljoscha Smolic, Andreas Burg, Wojciech Matusik, Markus Gross
-featured_image: assets/images/CompStereo_0_itok=HOV564cB.jpg
+featured_image: /assets/images/CompStereo_0_itok=HOV564cB.jpg
 layout: publication
 date: 2011-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2011)
-publication_link: assets/files/CompStereo.pdf
+publication_link: /assets/files/CompStereo.pdf
 title: Computational Stereo Camera System with Programmable Control Loop
 ---
 

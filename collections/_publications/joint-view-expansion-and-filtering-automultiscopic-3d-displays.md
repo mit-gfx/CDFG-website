@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: 'Piotr Didyk, Pitchaya Sitthi-Amorn, William T. Freeman, Frédo Durand, Wojciech Matusik'
-featured_image: assets/images/auto-3d-display_itok=4Q93bjXR.png
+featured_image: /assets/images/auto-3d-display_itok=4Q93bjXR.png
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2013)

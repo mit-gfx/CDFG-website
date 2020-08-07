@@ -1,10 +1,10 @@
 ---
 acknowlegement: 'Support for this project has been provided in part by NSF Grant Nos. 1240383 and 1138967, by the DoD through the NDSEG Fellowship Program. We are also grateful to the following people for resources, discussions and suggestions: Ankur Mehta, Joseph DelPreto, Jacob Haip, and Isaque Dutra.'
 authors: 'Adriana Schulz*, Cynthia Sung*, Andrew Spielberg, Wei Zhao, Robin Cheng, Eitan Grinspun, Daniela Rus, and Wojciech Matusik'
-featured_image: assets/images/robogami_itok=ORllAGGl.png
+featured_image: /assets/images/robogami_itok=ORllAGGl.png
 layout: publication
 publication: International Journal of Robotics Research (IJRR)
-publication_link: assets/files/robogami_0.pdf
+publication_link: /assets/files/robogami_0.pdf
 title: 'Interactive Robogami : An End-to-End System for Design of Robots with Ground Locomotion'
 date: 2017-01-01 12:00:00 -0700
 ---

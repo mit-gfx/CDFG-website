@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Anat Levin, Daniel Glasner, Ying Xiong, Fredo Durand, Bill Freeman, Wojciech Matusik, and Todd Zickler
-featured_image: assets/images/wafer_0_itok=gCggrdp_.jpg
+featured_image: /assets/images/wafer_0_itok=gCggrdp_.jpg
 layout: publication
 project_website: http://www.wisdom.weizmann.ac.il/~levina/papers/BRDFfab/
 publication: ACM Transactions on Graphics (SIGGRAPH 2013)
-publication_link: assets/files/LevinEtAL2013-BRDF-Fab.pdf
+publication_link: /assets/files/LevinEtAL2013-BRDF-Fab.pdf
 title: Fabricating BRDFs at High Spatial Resolution Using Wave Optics
 date: 2013-01-01 12:00:00 -0700
 ---

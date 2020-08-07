@@ -1,11 +1,11 @@
 ---
 acknowlegement: We would like to thank Junaid Ali, Thomas Leimkühler, Alexandre Kaspar, Krzysztof Templin, Louise van den Heuvel, Tobias Ritschel, and the anonymous subjects who took part in our perceptual studies. This work was partially supported by the Fraunhofer and Max Planck cooperation program within the framework of the German pact for research and innovation (PFI).
 authors: Petr Kellnhofer, Piotr Didyk, Karol Myszkowski, Mohamed M. Hefeeda, Hans-Peter Seidel, Wojciech Matusik
-featured_image: assets/images/gaze3d_itok=uqcYNNMN.png
+featured_image: /assets/images/gaze3d_itok=uqcYNNMN.png
 layout: publication
 project_website: http://resources.mpi-inf.mpg.de/GazeStereo3D/
 publication: ACM Transactions on Graphics (SIGGRAPH 2016)
-publication_link: assets/files/paper_3.pdf
+publication_link: /assets/files/paper_3.pdf
 title: 'GazeStereo3D: Seamless Disparity Manipulations'
 date: 2016-01-01 12:00:00 -0700
 ---

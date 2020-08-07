@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: "James Tompkin, Samuel Muff, Stanislav Jakuschevskij, Disney Research, Jim McCann, Jan Kautz, Marc Alexa, Wojciech Matusik"
-featured_image: assets/images/lf_painting_0_itok=_0I0umEw.jpg
+featured_image: /assets/images/lf_painting_0_itok=_0I0umEw.jpg
 layout: publication
 project_website: http://www.disneyresearch.com/project/interactive-light-field-painting/
 publication: ACM SIGGRAPH 2012 Emerging Technologies

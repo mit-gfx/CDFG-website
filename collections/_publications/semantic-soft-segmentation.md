@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Yagiz Aksoy, Tae-Hyun Oh, Sylvain Paris, Marc Pollefeys, Wojciech Matusik
-featured_image: assets/images/sss_itok=RWEkn6GU.jpg
+featured_image: /assets/images/sss_itok=RWEkn6GU.jpg
 layout: publication
 project_website: http://people.inf.ethz.ch/aksoyy/sss/
 publication: ACM SIGGRAPH 2018
-publication_link: assets/files/sss_3.pdf
+publication_link: /assets/files/sss_3.pdf
 title: Semantic Soft Segmentation
 date: 2018-01-01 12:00:00 -0700
 ---

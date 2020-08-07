@@ -1,11 +1,11 @@
 ---
 acknowlegement: We would like to thank our reviewers for the helpful suggestions, XRite (especially Peter Ehbets) for lending us the spectrophotometer, David Kim and Wenshou Wang for help with materials, and Subra Subramanian, Javier Ramos, and Pitchaya Sitthi-amorn for help with printing. We thank Sergiu Gaman, Romain Rossier and Roger Hersch from EPFL for the gamut mapping software. We are grateful to Sylvain Paris for his feedback on the manuscript. The 3D models and images of physical materials were obtained from TurboSquid, GrabCAD, Wikimedia and ISO. Vahid Babaei acknowledges the Swiss National Science Foundation (SNSF) support, under grant number P2ELP2_161843.
 authors: Vahid Babaei, Kiril Vidimče, Michael Foshey, Alexandre Kaspar, Piotr Didyk, Wojciech Matusik
-featured_image: assets/images/color_3dp_itok=pOMGkHvu.jpg
+featured_image: /assets/images/color_3dp_itok=pOMGkHvu.jpg
 layout: publication
 date: 2017-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2017)
-publication_link: assets/files/Color3DP_compressed.pdf
+publication_link: /assets/files/Color3DP_compressed.pdf
 title: 'Color Contoning for 3D Printing '
 ---
 

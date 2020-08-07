@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Jeffrey Lipton*, Adriana Schulz*, Andrew Spielberg, Luis Trueba, Wojciech Matusik, Daniela Rus (*equal contribution)
-featured_image: assets/images/adriana-icra18_itok=DSDC3yOK.png
+featured_image: /assets/images/adriana-icra18_itok=DSDC3yOK.png
 layout: publication
 date: 2018-01-01 12:00:00 -0700
 publication: International Conference on Robotics and Automation (ICRA)
-publication_link: assets/files/autosaw.pdf
+publication_link: /assets/files/autosaw.pdf
 title: Robot Assisted Carpentry for Mass Customization
 ---
 

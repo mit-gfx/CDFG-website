@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: 'Netalee Efrat, Piotr Didyk, Mike Foshey, Wojciech Matusik, Anat Levin'
-featured_image: assets/images/cinema3d_itok=e01RGLwE.jpg
+featured_image: /assets/images/cinema3d_itok=e01RGLwE.jpg
 layout: publication
 project_website: http://www.wisdom.weizmann.ac.il/~netefrat/cinema3D/
 publication: ACM Transactions on Graphics (SIGGRAPH 2016)
-publication_link: assets/files/paper_2.pdf
+publication_link: /assets/files/paper_2.pdf
 title: 'Cinema 3D: Large Scale Automultiscopic Display'
 date: 2016-01-01 12:00:00 -0700
 ---

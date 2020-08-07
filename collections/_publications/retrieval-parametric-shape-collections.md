@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Adriana Schulz, Ariel Shamir, Ilya Baran, David I. W. Levin, Pitchaya Sitthi-amorn, Wojciech Matusik
-featured_image: assets/images/retrieval-on-parametric-shape-collections.PNG_itok=ot2JumTs.png
+featured_image: /assets/images/retrieval-on-parametric-shape-collections.PNG_itok=ot2JumTs.png
 layout: publication
 project_website: http://people.csail.mit.edu/aschulz/paramShapeRetrieval/index.html
 publication: ACM Transactions on Graphics (to be presented at SIGGRAPH 2017)
-publication_link: assets/files/retrieval-on-parametric-shape-collections.pdf
+publication_link: /assets/files/retrieval-on-parametric-shape-collections.pdf
 title: Retrieval on Parametric Shape Collections
 date: 2017-01-01 12:00:00 -0700
 ---

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Changil Kim, Alexander Hornung, Simon Heinzle, Wojciech Matusik, and Markus Gross
-featured_image: assets/images/lfcuts_1_itok=kfHUptfB.jpg
+featured_image: /assets/images/lfcuts_1_itok=kfHUptfB.jpg
 layout: publication
 date: 2011-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2011)
-publication_link: assets/files/mpslf.pdf
+publication_link: /assets/files/mpslf.pdf
 title: Multi-Perspective Stereoscopy from Light Fields
 ---
 

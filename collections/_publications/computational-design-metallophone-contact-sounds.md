@@ -1,11 +1,11 @@
 ---
 acknowlegement: This work has been supported by grants from NSF.
 authors: Gaurav Bharaj, David I.W. Levin, James Tompkin, Yun Fei, Hanspeter Pfister, Wojciech Matusik, Changxi Zheng,
-featured_image: assets/images/sound_itok=6DjnNL9_.jpg
+featured_image: /assets/images/sound_itok=6DjnNL9_.jpg
 layout: publication
 project_website: http://people.seas.harvard.edu/~gaurav/papers/cdmcs_sa_2015/
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2015), 34(6)
-publication_link: assets/files/cdmcs_sa_2015_0.pdf
+publication_link: /assets/files/cdmcs_sa_2015_0.pdf
 title: Computational Design of Metallophone Contact Sounds
 date: 2015-01-01 12:00:00 -0700
 ---

@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Kiana Calagari, Tarek Elgamal, Khaled Diab, Krzysztof Templin, Piotr Didyk, Wojciech Matusik, Mohamed Hefeeda
-featured_image: assets/images/depth-personalization_1.JPG_itok=BshuPgJz.jpeg
+featured_image: /assets/images/depth-personalization_1.JPG_itok=BshuPgJz.jpeg
 layout: publication
 date: 2016-01-01 12:00:00 -0700
 publication: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2016

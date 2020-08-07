@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Yagiz Aksoy, Changil Kim, Petr Kellnhofer, Sylvain Paris, Mohamed Elgharib, Marc Pollefeys and Wojciech Matusik
-featured_image: assets/images/fai_itok=skNpRmP1.jpg
+featured_image: /assets/images/fai_itok=skNpRmP1.jpg
 layout: publication
 project_website: http://people.inf.ethz.ch/aksoyy/flashambient/
 publication: ECCV 2018
-publication_link: assets/files/fai.pdf
+publication_link: /assets/files/fai.pdf
 title: A Dataset of Flash and Ambient Illumination Pairs from the Crowd
 date: 2018-01-01 12:00:00 -0700
 ---

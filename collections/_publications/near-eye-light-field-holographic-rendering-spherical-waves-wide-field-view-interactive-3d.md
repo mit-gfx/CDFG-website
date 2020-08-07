@@ -1,11 +1,11 @@
 ---
 acknowlegement: We would like to thank Stephen S Hamann for the advice on hardware prototype and Qi Sun for the early help on software design.
 authors: Liang Shi, Fu-Chung Huang, Ward Lopes, Wojciech Matusik, David Luebke
-featured_image: assets/images/near-eye-light-field-holographic-rendering.JPG_itok=Zy0i7Rh8.jpeg
+featured_image: /assets/images/near-eye-light-field-holographic-rendering.JPG_itok=Zy0i7Rh8.jpeg
 layout: publication
 project_website: http://research.nvidia.com/publication/2017-11_%09Near-eye-Light-Field
 publication: ACM Transactions of Graphics (SIGGRAPH ASIA 2017)
-publication_link: assets/files/near-eye-light-field-holographic-rendering.pdf
+publication_link: /assets/files/near-eye-light-field-holographic-rendering.pdf
 title: Near-eye Light Field Holographic Rendering with Spherical Waves for Wide Field of View Interactive 3D Computer Graphics
 date: 2017-01-01 12:00:00 -0700
 ---

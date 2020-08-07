@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Ajay Nandoriya, Mohamed Elgharib, Changil Kim, Mohamed Hefeeda, and Wojciech Matusik
-featured_image: assets/images/video-reflection-removal-through-spatio-temporal-optimization_itok=L_QOR-Wk.png
+featured_image: /assets/images/video-reflection-removal-through-spatio-temporal-optimization_itok=L_QOR-Wk.png
 layout: publication
 date: 2017-01-01 12:00:00 -0700
 publication: ICCV 2017
-publication_link: assets/files/video-reflection-removal-through-tpatio-temporal-optimization.pdf
+publication_link: /assets/files/video-reflection-removal-through-tpatio-temporal-optimization.pdf
 title: Video Reflection Removal Through Spatio-Temporal Optimization
 ---
 

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Adrià Recasens*, Petr Kellnhofer*, Piotr Didyk, Simon Stent, Wojciech Matusik, and Antonio Torralba
-featured_image: assets/images/learning_to_zoom_itok=YUn6dFfU.png
+featured_image: /assets/images/learning_to_zoom_itok=YUn6dFfU.png
 layout: publication
 date: 2018-01-01 12:00:00 -0700
 publication: ECCV 2018
-publication_link: assets/files/learning_to_zoom.pdf
+publication_link: /assets/files/learning_to_zoom.pdf
 title: 'Learning to Zoom: a Saliency-Based Sampling Layer for Neural Networks'
 ---
 

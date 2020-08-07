@@ -1,10 +1,10 @@
 ---
 acknowlegement: ''
 authors: Subramanian Sundaram, Petr Kellnhofer, Yunzhu Li, Jun-Yan Zhu, Antonio Torralba, Wojciech Matusik
-featured_image: assets/images/nature_glove.PNG_itok=bsu8321H.png
+featured_image: /assets/images/nature_glove.PNG_itok=bsu8321H.png
 layout: publication
 publication: Nature
-publication_link: assets/files/Sundaram_et_al-2019-Nature.pdf
+publication_link: /assets/files/Sundaram_et_al-2019-Nature.pdf
 title: Learning the signatures of the human grasp using a scalable tactile glove
 date: 2019-01-01 12:00:00 -0700
 show_on_homepage: true

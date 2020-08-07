@@ -1,11 +1,11 @@
 ---
 acknowlegement: 'We thank C. Ross and P. Kellnhofer for discussions; M. Onbasli, A. Tang, and D. Bono for assistance with VSM measurements; and W. Wang and J. Rubin for help in ink formulation. We are thankful to T. Buehler for help with the videos. Funding: This research was supported in part by the Defense Advanced Research Projects Agency (DARPA) and Space and Naval Warfare Systems Center Pacific (SSC Pacific) under contract no. 66001-15-C-4030. Author contributions: S.S., M.S., and W.M. planned the research. M.S. built the multiobjective topology optimizer. S.S., D.S.K., and L.v.d.H. performed experiments. S.S. and M.S. wrote the paper with input from all authors. Competing interests: The authors declare that they have no competing interests. Data and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. Additional data related to this paper may be requested from the authors.'
 authors: Subramanian Sundaram, Melina Skouras, David S. Kim, Louise van den Heuvel, Wojciech Matusik
-featured_image: assets/images/vangogh_itok=TsEP04wT.png
+featured_image: /assets/images/vangogh_itok=TsEP04wT.png
 layout: publication
 show_on_homepage: true
 publication: Science Advances
-publication_link: assets/files/SCI_ADV_19.pdf
+publication_link: /assets/files/SCI_ADV_19.pdf
 title: Topology optimization and 3D printing of multimaterial magnetic actuators and displays
 date: 2019-01-01 12:00:00 -0700
 ---

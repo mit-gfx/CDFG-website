@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Petr Kellnhofer, Piotr Didyk, Szu-Po Wang, Pitchaya Sitthi-Amorn, William Freeman, Fredo Durand, Wojciech Matusik
-featured_image: assets/images/home3d_itok=oP01ceMJ.jpg
+featured_image: /assets/images/home3d_itok=oP01ceMJ.jpg
 layout: publication
 project_website: https://people.csail.mit.edu/pkellnho/Home3D/
 publication: ACM Transactions on Graphics (SIGGRAPH 2017)
-publication_link: assets/files/home3d.pdf
+publication_link: /assets/files/home3d.pdf
 title: '3DTV at Home: Eulerian-Lagrangian Stereo-to-Multiview Conversion '
 date: 2017-01-01 12:00:00 -0700
 ---

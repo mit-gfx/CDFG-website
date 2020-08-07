@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Eder Miguel, Derek Bradley, Bernhard Thomaszewski, Bernd Bickel, Wojciech Matusik, Miguel Otaduy, Steve Marschner
-featured_image: assets/images/cloth_model_0_itok=ccw-NS-Z.jpg
+featured_image: /assets/images/cloth_model_0_itok=ccw-NS-Z.jpg
 layout: publication
 project_website: http://www.disneyresearch.com/project/clothsimmodels/
 publication: 'Computer Graphics Forum (Proceedings of Eurographics 2012) '
-publication_link: assets/files/DataDrivenCloth-EG2012.pdf
+publication_link: /assets/files/DataDrivenCloth-EG2012.pdf
 title: Data-Driven Estimation of Cloth Simulation Models
 date: 2012-01-01 12:00:00 -0700
 ---

@@ -1,11 +1,11 @@
 ---
 acknowlegement: 'We thank C. Dick for providing the code of his GPU multigrid FEM solver that inspired us. We also thank D. Rus for providing access to the mechanical test machines that we used. Funding: The research is funded by Defense Advanced Research Projects Agency (DARPA) Simplifying Complexity in Scientific Discovery (SIMPLEX) N66001-15-C-4030.'
 authors: Desai Chen, Mélina Skouras, Bo Zhu and Wojciech Matusik
-featured_image: assets/images/computational-discovery-of-extremal-microstructure-families_0_itok=tUa9SCEB.png
+featured_image: /assets/images/computational-discovery-of-extremal-microstructure-families_0_itok=tUa9SCEB.png
 layout: publication
 date: 2018-01-01 12:00:00 -0700
 publication: Science Advances
-publication_link: assets/files/computational-discovery-of-extremal-microstructure-families.pdf
+publication_link: /assets/files/computational-discovery-of-extremal-microstructure-families.pdf
 title: Computational Discovery of Extremal Microstructure Families
 ---
 

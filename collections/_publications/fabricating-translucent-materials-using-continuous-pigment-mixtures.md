@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Marios Papas, Christian Regg, Wojciech Jarosz, Bernd Bickel, Philip Jackson, Wojciech Matusik, Steve Marschner, and Markus Gross
-featured_image: assets/images/fab-translucent_itok=lfGXH4A1.png
+featured_image: /assets/images/fab-translucent_itok=lfGXH4A1.png
 layout: publication
 project_website: http://www.disneyresearch.com/project/translucent-materials/
 publication: ACM Transactions on Graphics (SIGGRAPH 2013)
-publication_link: assets/files/a146-papas.pdf
+publication_link: /assets/files/a146-papas.pdf
 title: Fabricating Translucent Materials using Continuous Pigment Mixtures
 date: 2013-01-01 12:00:00 -0700
 ---

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: 'Marc Alexa and Wojciech Matusik. '
-featured_image: assets/images/relief_itok=8FS1a5-a.jpg
+featured_image: /assets/images/relief_itok=8FS1a5-a.jpg
 layout: publication
 date: 2010-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2010)
-publication_link: assets/files/image2relief.pdf
+publication_link: /assets/files/image2relief.pdf
 title: Reliefs as Images
 ---
 

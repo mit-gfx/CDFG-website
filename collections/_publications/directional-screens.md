@@ -1,11 +1,11 @@
 ---
 acknowlegement: This work was partially supported by European Research Council (ERC) grant 321135 CREATIV.
 authors: Michal Piovarči, Michael Wessely, Michał Jagielski, Marc Alexa, Wojciech Matusik, and Piotr Didyk
-featured_image: assets/images/directional_screens.JPG_itok=u2Nmp5gO.jpeg
+featured_image: /assets/images/directional_screens.JPG_itok=u2Nmp5gO.jpeg
 layout: publication
 project_website: http://pdf.mmci.uni-saarland.de/projects/DirectionalScreens/
 publication: ACM Symposium on Computational Fabrication (SCF 2017)
-publication_link: assets/files/directional_screens.pdf
+publication_link: /assets/files/directional_screens.pdf
 title: Directional Screens
 date: 2017-01-01 12:00:00 -0700
 ---

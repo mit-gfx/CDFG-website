@@ -1,11 +1,11 @@
 ---
 acknowlegement: This research is supported in part by the Defense Advanced Research Projects Agency (DARPA) and Space and Naval Warfare Systems Center Pacific (SSC Pacific) under Contract No 66001-15-C-4030.
 authors: Bo Zhu, Melina Skouras, Desai Chen, Wojciech Matusik
-featured_image: assets/images/two_scaled_topo_itok=L0fkySN9.png
+featured_image: /assets/images/two_scaled_topo_itok=L0fkySN9.png
 layout: publication
 project_website: http://people.csail.mit.edu/boolzhu/projects/topo.htm
 publication: ACM Transactions on Graphics (to be presented at SIGGRAPH 2017)
-publication_link: assets/files/two_scale_topo.pdf
+publication_link: /assets/files/two_scale_topo.pdf
 title: Two-Scale Topology Optimization with Microstructures
 date: 2017-01-01 12:00:00 -0700
 ---

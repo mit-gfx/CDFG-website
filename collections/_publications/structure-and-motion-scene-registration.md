@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Tali Basha, Shai Avidan, Alexander Hornung, and Wojciech Matusik
-featured_image: assets/images/scenereg_itok=mBghIWdr.jpg
+featured_image: /assets/images/scenereg_itok=mBghIWdr.jpg
 layout: publication
 date: 2012-01-01 12:00:00 -0700
 publication: ' IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012'
-publication_link: assets/files/SceneReg.pdf
+publication_link: /assets/files/SceneReg.pdf
 title: Structure and Motion from Scene Registration
 ---
 

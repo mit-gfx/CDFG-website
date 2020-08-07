@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Thiago Pereira, Szymon Rusinkiewicz, Wojciech Matusik
-featured_image: assets/images/light-routing_itok=1yDjnUhs.png
+featured_image: /assets/images/light-routing_itok=1yDjnUhs.png
 layout: publication
 project_website: http://lightrouting.cs.princeton.edu/
 publication: 'ACM Transactions on Graphics, Vol. 33, No. 3, May 2014 '

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Michal Piovarči, David I.W. Levin, Jason Rebello, Desai Chen, Roman Ďurikovič, Hanspeter Pfister, Wojciech Matusik, Piotr Didyk
-featured_image: assets/images/interactive-perception_itok=qSVaC5t3.png
+featured_image: /assets/images/interactive-perception_itok=qSVaC5t3.png
 layout: publication
 project_website: http://pdf.mmci.uni-saarland.de/projects/ComplianceModel/
 publication: ACM Transactions on Graphics (SIGGRAPH 2016)
-publication_link: assets/files/An-interaction-Aware-Perceptual-Model-for-Non-Linear-Elastic-Objects-Paper_0.pdf
+publication_link: /assets/files/An-interaction-Aware-Perceptual-Model-for-Non-Linear-Elastic-Objects-Paper_0.pdf
 date: 2016-01-01 12:00:00 -0700
 title: An Interaction-Aware, Perceptual Model for Non-Linear Elastic Objects
 ---

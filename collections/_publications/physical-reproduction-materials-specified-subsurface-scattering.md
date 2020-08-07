@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Milos Hasan, Martin Fuchs, Wojciech Matusik, Hanspeter Pfister, Szymon Rusinkiewicz
-featured_image: assets/images/pro_itok=zbE_AShn.jpg
+featured_image: /assets/images/pro_itok=zbE_AShn.jpg
 layout: publication
 date: 2010-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2010)
-publication_link: assets/files/PRO.pdf
+publication_link: /assets/files/PRO.pdf
 title: Physical reproduction of materials with specified subsurface scattering
 ---
 

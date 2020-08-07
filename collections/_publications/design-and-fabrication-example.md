@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Adriana Schulz, Ariel Shamir, David I.W. Levin, Pitchaya Sitthi-amorn, Wojciech Matusik
-featured_image: assets/images/fabByExample_0_itok=bFLhV9iW.png
+featured_image: /assets/images/fabByExample_0_itok=bFLhV9iW.png
 layout: publication
 project_website: http://fabbyexample.csail.mit.edu/
 publication: ACM Transactions on Graphics (SIGGRAPH 2014)

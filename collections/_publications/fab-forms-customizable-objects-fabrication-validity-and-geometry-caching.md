@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Maria Shugrina, Ariel Shamir, Wojciech Matusik
-featured_image: assets/images/fab-forms_itok=AHyIOVPU.png
+featured_image: /assets/images/fab-forms_itok=AHyIOVPU.png
 layout: publication
 date: 2015-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2015)
-publication_link: assets/files/fabforms_paper.pdf
+publication_link: /assets/files/fabforms_paper.pdf
 title: 'Fab Forms: Customizable Objects for Fabrication with Validity and Geometry Caching'
 ---
 

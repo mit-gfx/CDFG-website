@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Kevin Dale, Kalyan Sunkavalli, Micah Johnson, Daniel Vlasic, Wojciech Matusik, Hanspeter Pfister
-featured_image: assets/images/vfr_itok=BbvecKAw.jpg
+featured_image: /assets/images/vfr_itok=BbvecKAw.jpg
 layout: publication
 date: 2011-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2011)
-publication_link: assets/files/vfr.pdf
+publication_link: /assets/files/vfr.pdf
 title: Video Face Replacement
 ---
 

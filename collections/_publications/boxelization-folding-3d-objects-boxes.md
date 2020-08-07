@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Yahan Zhou, Shinjiro Sueda, Wojciech Matusik, Ariel Shamir
-featured_image: assets/images/boxelization_0_itok=qKDVk8Fo.jpg
+featured_image: /assets/images/boxelization_0_itok=qKDVk8Fo.jpg
 layout: publication
 project_website: http://www.disneyresearch.com/project/boxelization/
 publication: ACM Transactions on Graphics (SIGGRAPH 2014)

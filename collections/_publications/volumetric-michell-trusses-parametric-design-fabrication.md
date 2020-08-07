@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Rahul Arora, Alec Jacobson, Timothy R. Langlois, Yijiang Huang, Caitlin Mueller, Wojciech Matusik, Ariel Shamir, Karan Singh, David I.W. Levin
-featured_image: assets/images/michell_teaser_itok=Ld_zlTq2.jpg
+featured_image: /assets/images/michell_teaser_itok=Ld_zlTq2.jpg
 layout: publication
 project_website: https://www.dgp.toronto.edu/projects/michell/
 publication: ACM Symposium on Computational Fabrication 2019
-publication_link: assets/files/volumetric_michell_truss_scf19_arora_et_al.pdf
+publication_link: /assets/files/volumetric_michell_truss_scf19_arora_et_al.pdf
 title: Volumetric Michell Trusses for Parametric Design & Fabrication
 date: 2019-01-01 12:00:00 -0700
 show_on_homepage: true

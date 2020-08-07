@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Krzysztof Templin,  Piotr Didyk, Karol Myszkowski, Mohamed M. Hefeeda, Hans-Peter Seidel, Wojciech Matusik
-featured_image: assets/images/eye-vergence_itok=XqaFPzW0.png
+featured_image: /assets/images/eye-vergence_itok=XqaFPzW0.png
 layout: publication
 project_website: http://resources.mpi-inf.mpg.de/VergenceModel/
 publication: ACM Transactions on Graphics (SIGGRAPH 2014)
-publication_link: assets/files/eye_vergence.pdf
+publication_link: /assets/files/eye_vergence.pdf
 title: Modeling and Optimizing Eye Vergence Response to Stereoscopic Cuts
 date: 2014-01-01 12:00:00 -0700
 ---

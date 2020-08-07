@@ -1,11 +1,11 @@
 ---
 acknowlegement: We would like to thank Kyle Johnsen for his help with the IRB, as well as Bradley Barnes and Karen Aguar for helping to recruit participants. This research was supported by Samsung, Toyota, and the QCRI-CSAIL partnership.
 authors: Kyle Krafka, Aditya Khosla, Petr Kellnhofer, Harini Kannan, Suchendra Bhandarkar, Wojciech Matusik, Antonio Torralba
-featured_image: assets/images/eye-tracking_itok=O-wW33uz.jpg
+featured_image: /assets/images/eye-tracking_itok=O-wW33uz.jpg
 layout: publication
 project_website: http://gazecapture.csail.mit.edu/
 publication: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
-publication_link: assets/files/paper_6.pdf
+publication_link: /assets/files/paper_6.pdf
 title: Eye Tracking for Everyone
 date: 2016-01-01 12:00:00 -0700
 ---

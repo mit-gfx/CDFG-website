@@ -1,11 +1,11 @@
 ---
 acknowlegement: 'The authors would like to thank Ilya Baran for helpful suggestions and discussions, Michael Foshey, Nicholas Bandiera and Javier Ramos for discussions and for designing the models in the examples, and the team at Onshape for support with the API.'
 authors: Adriana Schulz, Jie Xu, Bo Zhu, Changxi Zheng, Eitan Grinspun, Wojciech Matusik
-featured_image: assets/images/instantcad_itok=dDNgXw4c.jpg
+featured_image: /assets/images/instantcad_itok=dDNgXw4c.jpg
 layout: publication
 project_website: http://people.csail.mit.edu/aschulz/optCAD/index.html
 publication: ACM Transactions on Graphics (SIGGRAPH 2017)
-publication_link: assets/files/instantcad.pdf
+publication_link: /assets/files/instantcad.pdf
 title: Interactive Design Space Exploration and Optimization for CAD Models
 date: 2017-01-01 12:00:00 -0700
 ---

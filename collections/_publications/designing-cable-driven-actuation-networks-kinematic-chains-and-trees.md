@@ -1,11 +1,11 @@
 ---
 acknowlegement: We thank the anonymous reviewers for their helpful comments; Philipp Herholz for early explorations; Alessia Marra for model design. This work has been supported by the SOMA project (European Commission, Horizon 2020 Framework Programme, H2020-ICT-645599).
 authors: Vittorio Megaro*, Espen Knoop*, Andrew Spielberg*, David I.W. Levin, Wojciech Matusik, Markus Gross, Bernhard Thomaszewski, Moritz Bächer
-featured_image: assets/images/cable_driven_robots_itok=BTm948-X.png
+featured_image: /assets/images/cable_driven_robots_itok=BTm948-X.png
 layout: publication
 project_website: https://www.disneyresearch.com/publication/designing-cable-driven-actuation-networks-for-kinematic-chains-and-trees/
 publication: ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA) 2017
-publication_link: assets/files/cable_driven_robots.pdf
+publication_link: /assets/files/cable_driven_robots.pdf
 title: Designing Cable-Driven Actuation Networks for Kinematic Chains and Trees
 date: 2017-01-01 12:00:00 -0700
 ---

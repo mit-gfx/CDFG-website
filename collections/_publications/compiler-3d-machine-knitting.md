@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Jim McCann, Lea Albaugh, Vidya Narayanan, April Grow, Wojciech Matusik, Jen Mankoff, Jessica Hodgins
-featured_image: assets/images/3d-knitting_0_itok=uYdlyV5J.png
+featured_image: /assets/images/3d-knitting_0_itok=uYdlyV5J.png
 layout: publication
 project_website: https://www.disneyresearch.com/publication/machine-knitting-compiler/
 publication: ACM Transactions on Graphics (SIGGRAPH 2016)
-publication_link: assets/files/paper_1.pdf
+publication_link: /assets/files/paper_1.pdf
 title: A Compiler for 3D Machine Knitting
 date: 2016-01-01 12:00:00 -0700
 ---

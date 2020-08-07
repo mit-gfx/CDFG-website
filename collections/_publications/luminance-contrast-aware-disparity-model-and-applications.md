@@ -1,7 +1,7 @@
 ---
 acknowlegement: ''
 authors: Piotr Didyk, Tobias Ritschel, Elmar Eisemann, Karol Myszkowski, Hans-Peter Seidel, Wojciech Matusik
-featured_image: assets/images/lum_contrast_itok=aF0jvNLC.jpg
+featured_image: /assets/images/lum_contrast_itok=aF0jvNLC.jpg
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2012)

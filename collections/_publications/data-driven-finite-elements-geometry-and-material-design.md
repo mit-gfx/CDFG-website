@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Desai Chen, David I.W. Levin, Shinjiro Sueda, Wojciech Matusik
-featured_image: assets/images/data-driven-fem_itok=DXHGsppW.png
+featured_image: /assets/images/data-driven-fem_itok=DXHGsppW.png
 layout: publication
 date: 2015-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2015)
-publication_link: assets/files/DDFEMMain_0.pdf
+publication_link: /assets/files/DDFEMMain_0.pdf
 title: Data-Driven Finite Elements for Geometry and Material Design
 ---
 

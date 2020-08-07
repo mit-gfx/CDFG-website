@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Timothy Langlois, Ariel Shamir, Daniel Dror, Wojciech Matusik, David I.W. Levin
-featured_image: assets/images/stochastic-structural-analysis_itok=DOv9MGWK.jpg
+featured_image: /assets/images/stochastic-structural-analysis_itok=DOv9MGWK.jpg
 layout: publication
 date: 2016-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2016)
-publication_link: assets/files/stochastic.pdf
+publication_link: /assets/files/stochastic.pdf
 title: Stochastic Structural Analysis for Context-Aware Design and Fabrication
 ---
 

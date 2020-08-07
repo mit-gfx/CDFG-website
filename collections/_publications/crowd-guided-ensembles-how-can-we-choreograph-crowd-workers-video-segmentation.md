@@ -1,11 +1,11 @@
 ---
 acknowlegement: Changil Kim was supported by a Swiss National Science Foundation fellowship P2EZP2 168785. We thank Zoya Bylinskii for her help with the paper.
 authors: Alexandre Kaspar, Geneviève Patterson, Changil Kim, Yagız Aksoy, Wojciech Matusik, Mohamed Elgharib
-featured_image: assets/images/alex-chi18.JPG_itok=UFGZ8i2L.jpeg
+featured_image: /assets/images/alex-chi18.JPG_itok=UFGZ8i2L.jpeg
 layout: publication
 project_website: http://people.inf.ethz.ch/aksoyy/crowdroto/
 publication: ACM CHI Conference on Human Factors in Computing Systems
-publication_link: assets/files/alex-chi18.pdf
+publication_link: /assets/files/alex-chi18.pdf
 title: 'Crowd-Guided Ensembles: How Can We Choreograph Crowd Workers for Video Segmentation?'
 date: 2018-01-01 12:00:00 -0700
 ---

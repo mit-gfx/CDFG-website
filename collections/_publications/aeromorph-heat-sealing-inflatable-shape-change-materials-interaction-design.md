@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Jifei Ou, Melina Skouras, Nikolaos Vlavianos, Felix Heibeck, Chin-Yi Cheng, Jannik Peters, Hiroshi Ishii
-featured_image: assets/images/aero-morph_1.JPG_itok=CHd_MbJX.jpeg
+featured_image: /assets/images/aero-morph_1.JPG_itok=CHd_MbJX.jpeg
 layout: publication
 project_website: https://www.youtube.com/watch?v=b1vrvDUr1Ds
 publication: ACM User Interface Software and Technology Symposium (UIST), 2016
-publication_link: assets/files/aero-morph.pdf
+publication_link: /assets/files/aero-morph.pdf
 title: aeroMorph - Heat-sealing Inflatable Shape-change Materials for Interaction Design
 date: 2016-01-01 12:00:00 -0700
 ---

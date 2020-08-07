@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: D. Chen, D. I. W. Levin, P. Didyk, P. Sitthi-amorn, W. Matusik
-featured_image: assets/images/spec2fab_itok=Y8MDzU_v.png
+featured_image: /assets/images/spec2fab_itok=Y8MDzU_v.png
 layout: publication
 date: 2013-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2013)
-publication_link: assets/files/Spec2Fab.pdf
+publication_link: /assets/files/Spec2Fab.pdf
 title: 'Spec2Fab: A Reducer-Tuner Model for Translating Specifications to 3D Prints'
 ---
 

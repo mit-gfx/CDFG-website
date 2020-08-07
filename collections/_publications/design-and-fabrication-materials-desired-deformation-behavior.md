@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Bernd Bickel, Moritz Bacher, Miguel A. Otaduy, Hyunho Richard Lee, Hanspeter Pfister, Markus Gross, Wojciech Matusik
-featured_image: assets/images/daf_itok=zeg05ye8.jpg
+featured_image: /assets/images/daf_itok=zeg05ye8.jpg
 layout: publication
 date: 2010-01-01 12:00:00 -0700
 publication: ACM Transactions on Graphics (SIGGRAPH 2010)
-publication_link: assets/files/Bic10.pdf
+publication_link: /assets/files/Bic10.pdf
 title: Design and Fabrication of Materials with Desired Deformation Behavior
 ---
 

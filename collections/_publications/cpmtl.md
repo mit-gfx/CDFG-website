@@ -1,7 +1,7 @@
 ---
 acknowlegement: We thank Tae-Hyun Oh for his insightful suggestions and constructive feedback on Krylov subspace methods. We also thank all reviewers for their comments. We thank Buttercup Foshey (and Michael Foshey) for her emotional support during this work. This work is supported by the Intelligence Advanced Research Projects Activity under grant 2019-19020100001, the Defense Advanced Research Projects Agency under grant N66001-15-C-4030, and the National Science Foundation under grant CMMI-1644558.
 authors: Pingchuan Ma*, Tao Du*, Wojciech Matusik
-featured_image: assets/images/cpmtl.png
+featured_image: /assets/images/cpmtl.png
 layout: publication
 project_website: http://cpmtl.csail.mit.edu/
 publication: ICML

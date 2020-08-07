@@ -1,7 +1,7 @@
 ---
 acknowlegement: We thank the anonymous reviewers for their helpful comments in revising the paper. This work is supported by Intelligence Advanced Research Projects Activity (grant No. 2019-19020100001), Defense Advanced Research Projects Agency (grant No. N66001-15-C-4030), and the National Science Foundation (grant No. CMMI-1644558).
 authors: Jie Xu, Yunsheng Tian, Pingchuan Ma, Daniela Rus, Shinjiro Sueda, Wojciech Matusik
-featured_image: assets/images/pgmorl_representative.gif
+featured_image: /assets/images/pgmorl_representative.gif
 layout: publication
 project_website: https://people.csail.mit.edu/jiex/papers/PGMORL/index.html
 publication: ICML

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: Amit Bermano, Ilya Baran, Marc Alexa, Wojciech Matusik
-featured_image: assets/images/shadowpix_itok=mZVZeeR8.jpg
+featured_image: /assets/images/shadowpix_itok=mZVZeeR8.jpg
 layout: publication
 date: 2012-01-01 12:00:00 -0700
 publication: Computer Graphics Forum (Proceedings of Eurographics 2012)
-publication_link: assets/files/SHADOWPIX.pdf
+publication_link: /assets/files/SHADOWPIX.pdf
 title: 'SHADOWPIX: Multiple Images from Self Shadowing'
 ---
 

@@ -1,11 +1,11 @@
 ---
 acknowlegement: ''
 authors: James Tompkin, Simon Heinzle, Jan Kautz, Wojciech Matusik
-featured_image: assets/images/lenticular_itok=uIZMrl4X.jpg
+featured_image: /assets/images/lenticular_itok=uIZMrl4X.jpg
 layout: publication
 project_website: http://vecg.cs.ucl.ac.uk/Projects/ContentAdaptiveLenticularPrints/
 publication: ACM Transactions on Graphics (SIGGRAPH 2013)
-publication_link: assets/files/calp_paper.pdf
+publication_link: /assets/files/calp_paper.pdf
 title: Content-adaptive Lenticular Prints
 date: 2013-01-01 12:00:00 -0700
 ---

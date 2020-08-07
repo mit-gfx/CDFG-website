@@ -1,11 +1,11 @@
 ---
 acknowlegement: We thank Eitan Grinspun, Uri Ascher and Etienne Vouga for valuable discussion; Gaurav Bharaj for user study assistance; Dan Ramirez for video voice overs; and David Salesin for support throughout. This work was supported in part by the NSF (Grant CCF 1138967).
 authors: Desai Chen, David I.W. Levin, Wojciech Matusik, Danny M. Kaufman
-featured_image: assets/images/dynamics-aware-coarsening_1.PNG_itok=c4pEk0ae.png
+featured_image: /assets/images/dynamics-aware-coarsening_1.PNG_itok=c4pEk0ae.png
 layout: publication
 project_website: http://people.csail.mit.edu/desaic/projects/desdyn.html
 publication: ACM Transactions on Graphics (SIGGRAPH 2017)
-publication_link: assets/files/dynamics-aware-coarsening.pdf
+publication_link: /assets/files/dynamics-aware-coarsening.pdf
 title: Dynamics-Aware Numerical Coarsening for Fabrication Design
 date: 2017-01-01 12:00:00 -0700
 ---

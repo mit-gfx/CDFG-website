@@ -1,10 +1,10 @@
 ---
 acknowlegement: ''
 authors: Haixiang Liu*, Yuanming Hu*, Bo Zhu, Wojciech Matusik, Eftychios Sifakis
-featured_image: assets/images/narrowband_topopt_itok=x_PyUNAv.jpg
+featured_image: /assets/images/narrowband_topopt_itok=x_PyUNAv.jpg
 layout: publication
 publication: ACM SIGGRAPH ASIA 2018
-publication_link: assets/files/narrowband_topopt.pdf
+publication_link: /assets/files/narrowband_topopt.pdf
 title: Narrow-Band Topology Optimization on a Sparsely Populated Grid
 date: 2018-01-01 12:00:00 -0700
 ---

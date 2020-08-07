@@ -4,7 +4,7 @@ authors: Xianchen Xu, Chen Wang, Wan Shou, Zongliang Du, Yangyang Chen, Beichen 
 featured_image: assets/images/prl.jpg
 layout: publication
 publication: Physical Review Letters
-publication_link: assets/files/prl.pdf
+publication_link: /assets/files/prl.pdf
 title: Physical Realization Of Elastic Cloaking With A Polar Material
 date: 2020-01-01 12:00:00 -0700
 show_on_homepage: true

@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: Laser-Induced Tar-Mediated Sintering of Metals and Refractory Carbides in Air
+featured_image: /assets/images/laser-sintering-teaser-2020.png
 show_on_homepage: true
 publication: ACS Nano
 publication_link: /assets/images/acs-nano2020.pdf

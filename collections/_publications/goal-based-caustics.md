@@ -2,7 +2,7 @@
 layout: publication
 title: Goal-based Caustics
 show_on_homepage: false
-publication: Computer Graphics Forum (Proceedings of Eurographics), 2011
+publication: Computer Graphics Forum (Proceedings of Eurographics)
 publication_link: /assets/images/papas11goal.pdf
 authors: Marios Papas, Wojciech Jarosz, Wenzel Jakob, Szymon Rusinkiewicz,
   Wojciech Matusik, Tim Weyrich

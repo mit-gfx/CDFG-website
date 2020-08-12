@@ -4,7 +4,7 @@ categories:
 - phd students
 featured_image: assets/images/jie_xu_1_itok=sCDw9fSJ.jpg
 layout: team
-link: ''
+link: http://people.csail.mit.edu/jiex/
 title: Jie Xu
 ---
 

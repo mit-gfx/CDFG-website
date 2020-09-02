@@ -3,7 +3,8 @@ acknowlegement: Tao Du, Kui Wu, and Andrew Spielberg would like to thank Butterc
 authors: Tao Du, Kui Wu, Andrew Spielberg, Wojciech Matusik, Bo Zhu, Eftychios Sifakis
 featured_image: /assets/images/diff_stokes_flow.png
 layout: publication
-publication: Siggraph Asia 2020
+project_website: https://people.csail.mit.edu/taodu/stokes/stokes.html
+publication: Siggraph Asia
 publication_link: /assets/files/diff_stokes_flow.pdf
 title: Functional Optimization of Fluidic Devices with Differentiable Stokes Flow
 date: 2020-09-01 12:00:00 -0700

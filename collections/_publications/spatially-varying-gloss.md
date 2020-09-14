@@ -3,7 +3,6 @@ acknowlegement: "We would like to thank Sebastian Cucerca for his help with meas
 authors: Michal Piovar&ccaron;i, Michael Foshey, Vahid Babaei, Szymon Rusinkiewicz, Wojciech Matusik, Piotr Didyk
 featured_image: /assets/images/SpatiallyVaryingGloss_teaser.png
 layout: publication
-project_website: ""
 publication: Siggraph Asia
 publication_link: /assets/files/SpatiallyVaryingGloss.pdf
 title: Towards Spatially Varying Gloss Reproduction for 3D Printing

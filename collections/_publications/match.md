@@ -6,7 +6,7 @@ layout: publication
 project_website: http://match.csail.mit.edu
 publication: SIGGRAPH Asia
 publication_link: /assets/files/match.pdf
-title: Differentiable Material Graphs for Procedural Material Capture
+title: Match Differentiable Material Graphs for Procedural Material Capture
 date: 2020-10-14 12:00:00 -0700
 ---
 

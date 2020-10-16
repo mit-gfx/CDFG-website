@@ -1,4 +1,5 @@
 ---
+show_on_homepage: true
 acknowlegement: Parts of this work were done when Liang Shi was an intern at Adobe Research. This work is partially supported by the U.S. National Science Foundation (NSF) grant IIS-1815585. We thank Guo et al.[2019] for several PyTorch routines and discussions. We also thank Holly Rushmeier, Julie Dorsey and Yiwei Hu for sharing their SIGGRAPHAsia 2019 implementation.
 authors: Liang Shi, Beichen Li, Miloš Hašan, Kalyan Sunkavalli, Tamy Boubekeur, Radomír Měch, Wojciech Matusik
 featured_image: /assets/images/match.jpg

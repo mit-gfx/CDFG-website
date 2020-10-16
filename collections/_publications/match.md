@@ -4,7 +4,7 @@ authors: Liang Shi, Beichen Li, Miloš Hašan, Kalyan Sunkavalli, Tamy Boubekeur
 featured_image: /assets/images/match.jpg
 layout: publication
 project_website: http://match.csail.mit.edu
-publication: Siggraph Asia
+publication: SIGGRAPH Asia
 publication_link: /assets/files/match.pdf
 title: MATch: Differentiable Material Graphs for Procedural Material Capture
 date: 2020-10-15 12:00:00 -0700

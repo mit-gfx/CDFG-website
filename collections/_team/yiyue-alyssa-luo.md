@@ -4,7 +4,7 @@ categories:
 - phd students
 featured_image: assets/images/alyssa_itok=HAZs83kf.jpg
 layout: team
-link: ''
+link: https://www.linkedin.com/in/yiyue-luo-071b7976/
 title: Yiyue 'Alyssa' Luo
 ---
 

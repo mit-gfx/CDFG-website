@@ -1,5 +1,4 @@
 ---
-show_on_homepage: true
 acknowlegement: We thank the anonymous reviewers for their helpful comments in revising the paper. This work is supported by National Science Foundation (grant No. 1815372). M. K. Luković would like to acknowledge support from the Schmidt Science Fellowship.
 authors: Mina Konaković Luković*, Yunsheng Tian*, Wojciech Matusik
 featured_image: /assets/images/dgemo.png

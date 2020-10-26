@@ -2,7 +2,7 @@
 categories:
 - team
 - phd students
-featured_image: assets/images/makatura_itok=vPlNdNX_.jpg
+featured_image: assets/images/liane_makatura_crop.jpg
 layout: team
 link: http://www.lianemakatura.com/
 title: Liane Makatura

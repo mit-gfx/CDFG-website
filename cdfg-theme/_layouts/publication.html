@@ -33,7 +33,14 @@ layout: default
 			<h6>Paper</h6>
 			<p>
 				<i class="icon-file"></i> <a href="{{ page.publication_link }}">{{ page.publication_link | replace: '/assets/files/', '' | replace: '/assets/images/', ''}}</a>
-			</p>
+            </p>
+            
+            {% if page.supplementary_link %}
+                <h6>Supplementary Material</h6>
+                <p>
+                    <i class="icon-file"></i> <a href="{{ page.supplementary_link }}">{{ page.supplementary_link | replace: '/assets/files/', '' | replace: '/assets/images/', ''}}</a>
+                </p>
+            {% endif %}
 
 			{% if page.project_website %}
 				<h6>Project Website</h6>

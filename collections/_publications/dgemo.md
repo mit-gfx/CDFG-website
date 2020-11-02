@@ -4,7 +4,8 @@ authors: Mina Konaković Luković*, Yunsheng Tian*, Wojciech Matusik
 featured_image: /assets/images/dgemo.png
 layout: publication
 publication: NeurIPS
-publication_link: https://www.yunshengtian.com/files/NeurIPS2020/DGEMO.pdf
+publication_link: /assets/files/DGEMO.pdf
+supplementary_link: /assets/files/DGEMO_supplementary.pdf
 title: 'Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations'
 date: 2020-10-21 12:00:00 -0700
 ---

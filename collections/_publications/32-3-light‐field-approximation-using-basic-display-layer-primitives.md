@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "32.3: Light‐Field Approximation Using Basic Display Layer Primitives"
+title: Light‐Field Approximation Using Basic Display Layer Primitives
 show_on_homepage: false
 publication: SID symposium digest of technical papers,Vol. 44, issue 1, Pages 408-411
 publication_link: /assets/images/light-field-approximation-using-basic-display-layer-primitives-.pdf

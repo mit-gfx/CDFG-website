@@ -1,12 +1,14 @@
 ---
-acknowlegement: ''
-authors: Bernd Bickel, Peter Kaufmann, Melina Skouras, Bernhard Thomaszewski, Derek Bradley, Thabo Beeler, Phil Jackson, Steve Marschner, Wojciech Matusik, Markus Gross
-featured_image: /assets/images/phys_clone_0_itok=R2TDWZOq.jpg
 layout: publication
-project_website: http://www.disneyresearch.com/project/physical-face-cloning/
+title: Physical Face Cloning
 publication: ACM Transactions on Graphics (SIGGRAPH 2012)
 publication_link: /assets/files/Bickel_118-0371_compressed.pdf
-title: ' Physical Face Cloning'
+authors: Bernd Bickel, Peter Kaufmann, Melina Skouras, Bernhard Thomaszewski,
+  Derek Bradley, Thabo Beeler, Phil Jackson, Steve Marschner, Wojciech Matusik,
+  Markus Gross
+featured_image: /assets/images/phys_clone_0_itok=R2TDWZOq.jpg
+project_website: http://www.disneyresearch.com/project/physical-face-cloning/
+acknowlegement: ""
 date: 2013-01-01 12:00:00 -0700
 ---
 

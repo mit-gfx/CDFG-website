@@ -1,6 +1,6 @@
 ---
 title: Fabrication
-excerpt: Additive manufacturing, textile manufacturing/functional fibers, design/simulation tools, inverse problems, topology optimization
+excerpt: Additive manufacturing, textile manufacturing/functional fibers
 image: assets/images/icon-printer.svg
 ---
 

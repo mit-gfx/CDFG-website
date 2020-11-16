@@ -1,6 +1,7 @@
 ---
 title: Computer Graphics
-excerpt: Additive manufacturing, textile manufacturing/functional fibers, design/simulation tools, inverse problems, topology optimization
+excerpt: Data-driven methods, physics-based simulation, appearance modeling,
+  computational displays
 image: assets/images/icon-mesh.svg
 ---
 

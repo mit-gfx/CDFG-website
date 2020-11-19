@@ -6,6 +6,7 @@ publication: ACM Transactions on Graphics (TOG),Volume 34, Issue 6, Pages 1-11
 publication_link: /assets/images/autoconnect-computational-design-of-3d-printable-connectors.pdf
 authors: Yuki Koyama, Shinjiro Sueda, Emma Steinhardt, Takeo Igarashi, Ariel
   Shamir, Wojciech Matusik
+featured_image: /assets/images/image_autoconnect-computational-design-for-3d-printable-connectors.png
 acknowlegement: We would like to thank David Levin for the insightful
   discussions and for helping us with the prints. We would also like to thank
   the anonymous reviewers for their helpful comments. Yuki Koyama is funded by

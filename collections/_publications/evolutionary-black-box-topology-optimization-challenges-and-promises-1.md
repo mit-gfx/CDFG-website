@@ -8,6 +8,7 @@ publication_link: /assets/images/evolutionary-black-box-topology-optimization_-c
 authors: "David Guirguis, Nikola Aulig, Renato Picelli, Bo Zhu, Yuqing Zhou,
   William Vicente, Francesco Iorio, Markus Olhofer, Wojciech Matusik, Carlos
   Artemio Coello Coello\x03 and Kazuhiro Saitou"
+featured_image: /assets/images/image_evolutionary-black-box-topology.png
 acknowlegement: |-
   Renato Picelli acknowledges the financial support by the
 

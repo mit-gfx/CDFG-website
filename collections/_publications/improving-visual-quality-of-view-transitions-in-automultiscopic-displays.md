@@ -5,6 +5,7 @@ show_on_homepage: false
 publication: ACM Transactions on Graphics, Vol.33 Issue 6
 publication_link: /assets/images/improving-visual-quality-of-view-transitions-in-automultiscopic-displays.pdf
 authors: Song-Pei Du, Piotr Didyk, Frédo Durand, Shi-Min Hu, Wojciech Matusik
+featured_image: /assets/images/image_improving-visual-quality-of-view-transitions.png
 acknowlegement: We would like to thank Katarina Struckmann and Krzysztof Templin
   for proofreading, and the Anonymous Subjects who took part in our experiments.
   This work was partially supported by NSF IIS-1111415, NSF IIS-1116296, Quanta

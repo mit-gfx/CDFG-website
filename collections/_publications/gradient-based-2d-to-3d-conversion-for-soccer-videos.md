@@ -6,6 +6,7 @@ publication: Proceedings of the 23rd ACM International Conference on Multimedia
 publication_link: /assets/images/gradient-based-2d-to-3d-conversion-for-soccer-videos.pdf
 authors: Calagari, Kiana, Mohamed Elgharib, Piotr Didyk, Alexandre Kaspar,
   Wojciech Matusik, and Mohamed Hefeeda
+featured_image: /assets/images/image_gradient-based-2d-to-3d-conversionof-soccer-videos.png
 acknowlegement: This research was supported by the QCRI-CSAIL partnership and by
   the NSF grant IIS-1111415.
 date: 2015-10-01T14:27:00.000Z

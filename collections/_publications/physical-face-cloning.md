@@ -9,7 +9,7 @@ authors: Bernd Bickel, Peter Kaufmann, Melina Skouras, Bernhard Thomaszewski,
 featured_image: /assets/images/phys_clone_0_itok=R2TDWZOq.jpg
 project_website: http://www.disneyresearch.com/project/physical-face-cloning/
 acknowlegement: ""
-date: 2013-01-01 12:00:00 -0700
+date: 2012-07-01T18:00:00.000Z
 ---
 
 We propose a complete process for designing, simulating, and fabricating synthetic skin for an animatronics character that mimics the face of a given subject and its expressions. The process starts with measuring the elastic properties of a material used to manufacture synthetic soft tissue. Given these measurements we use physics-based simulation to predict the behavior of a face when it is driven by the underlying robotic actuation. Next, we capture 3D facial expressions for a given target subject. As the key component of our process, we present a novel optimization scheme that determines the shape of the synthetic skin as well as the actuation parameters that provide the best match to the target expressions. We demonstrate this computational skin design by physically cloning a real human face onto an animatronics ﬁgure.

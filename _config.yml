@@ -22,7 +22,7 @@ title: The Computational Design & Fabrication Group
 email: wojciech@csail.mit.edu
 description: The Computational Fabrication Group at the MIT Computer Science and Artificial Intelligence Laboratory investigates problems in digital manufacturing and computer graphics. The group is led by Professor Wojciech Matusik.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cdfg.mit.edu/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cdfg.mit.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

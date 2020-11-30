@@ -1,10 +1,17 @@
 ---
 layout: publication
-title: "3D TV: A Scalable System for Real-Time Acquisition, Transmission, and Autostereoscopic Display of Dynamic Scenes"
+title: "3D TV: A Scalable System for Real-Time Acquisition, Transmission, and
+  Autostereoscopic Display of Dynamic Scenes"
 show_on_homepage: false
 publication: ACM Transaction on Graphics (SIGGRAPH), Vol. 23,No. 3, pp. 814-824, August 2004
 authors: Matusik, W., H. Pfister, M. Brand, L. McMillan
-acknowlegement: We thank Joe Marks for valuable discussions and for his support throughout this project. We also thank Marc Levoy and the students in the Stanford computer graphics lab for stimulating discussions and useful suggestions. Marc Levoy pointed out some valuable references that were added to the paper. Also thanks to Leonard McMillan for initial discussions and ideas and to Jennifer Roderick Pfister for proofreading the paper.
+featured_image: /assets/images/3d-tv-a-scalable.jpg
+acknowlegement: We thank Joe Marks for valuable discussions and for his support
+  throughout this project. We also thank Marc Levoy and the students in the
+  Stanford computer graphics lab for stimulating discussions and useful
+  suggestions. Marc Levoy pointed out some valuable references that were added
+  to the paper. Also thanks to Leonard McMillan for initial discussions and
+  ideas and to Jennifer Roderick Pfister for proofreading the paper.
 date: 2004-08-01 12:00:00 -0700
 ---
 

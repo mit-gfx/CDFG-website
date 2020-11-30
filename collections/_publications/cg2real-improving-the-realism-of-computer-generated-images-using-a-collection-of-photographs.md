@@ -7,6 +7,7 @@ publication: "IEEE Transactions on Visualization and Computer Graphics 17 (2011)
 publication_link: /assets/images/cg2real-improving-the-realism-of-computer-generated-images-using-a-collection-of-photographs.pdf
 authors: Micah K Johnson, Kevin Dale, Shai Avidan, Hanspeter Pfister, William T
   Freeman, Wojciech Matusik
+featured_image: /assets/images/image-cg2real.jpg
 acknowlegement: This work was supported in part by the National Science
   Foundation under Grants No. PHY-0835713 and 0739255, the John A. and Elizabeth
   S. Armstrong Fellowship at Harvard, and through generous support from Adobe

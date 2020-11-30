@@ -7,7 +7,7 @@ publication: Proceedings of the 28th Annual ACM Symposium on User Interface
 publication_link: /assets/images/joint-5d-pen-input-for-light-field-displays.pdf
 authors: James Tompkin, Samuel Muff, James McCann, Hanspeter Pfister, Jan Kautz,
   Marc Alexa, Wojciech Matusik
-featured_image: /assets/images/image_joint-5d-pen-input....png
+featured_image: /assets/images/joint-5d-pen.jpg
 acknowlegement: Thank you to Olivier Bau, Daniel Haehn, Xavier Snelgrove, and
   Stanislav Jakuscievski for their hard work and support; Maryam Pashkam and Ken
   Nakayama for the Polhemus Fastrak; and Lara Booth for her artistry. We thank

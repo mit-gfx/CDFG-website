@@ -47,6 +47,13 @@ layout: default
 				<p>
 					<i class="icon-external-link"></i> <a href="{{ page.project_website }}">{{ page.project_website }}</a>
 				</p>
+            {% endif %}
+            
+            {% if page.video_link %}
+				<h6>Video</h6>
+				<p>
+					<i class="icon-external-link"></i> <a href="{{ page.video_link }}">{{ page.video_link }}</a>
+				</p>
 			{% endif %}
 
 		</div>

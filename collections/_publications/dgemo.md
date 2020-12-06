@@ -6,6 +6,7 @@ layout: publication
 publication: NeurIPS
 publication_link: /assets/files/DGEMO.pdf
 supplementary_link: /assets/files/DGEMO_supplementary.pdf
+video_link: https://youtu.be/dwEPBr2kLaQ
 title: 'Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations'
 date: 2020-10-21 12:00:00 -0700
 ---

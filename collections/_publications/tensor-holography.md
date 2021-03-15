@@ -1,0 +1,14 @@
+---
+show_on_homepage: true
+acknowlegement: We thank K. Aoyama and S. Wen (from Sony) for discussions; J. Minor, T. Du, M. Foshey, L. Makatura, W. Shou and T. Erps from MIT for improving/editing the manuscript; R. White for the administration of the project; X. Ju for the design of iPhone demo; and P. Ma for providing an iPhone 11 Pro for the mobile demo. We acknowledge funding from Sony Research Award Program.
+authors: Liang Shi, Beichen Li, Changil Kim, Petr Kellnhofer, Wojciech Matusik
+featured_image: /assets/images/nature_21.jpg
+layout: publication
+project_website: http://cgh.csail.mit.edu
+publication: Nature
+publication_link: https://www.nature.com/articles/s41586-020-03152-0
+title: 'Towards real-time photorealistic 3D holography with deep neural networks'
+date: 2021-3-10 11:00:00 -0700
+---
+
+The ability to present three-dimensional (3D) scenes with continuous depth sensation has a profound impact on virtual and augmented reality, human–computer interaction, education and training. Computer-generated holography (CGH) enables high-spatio-angular-resolution 3D projection via numerical simulation of diffraction and interference. Yet, existing physically based methods fail to produce holograms with both per-pixel focal control and accurate occlusion. The computationally taxing Fresnel diffraction simulation further places an explicit trade-off between image quality and runtime, making dynamic holography impractical4. Here we demonstrate a deep-learning-based CGH pipeline capable of synthesizing a photorealistic colour 3D hologram from a single RGB-depth image in real time. Our convolutional neural network (CNN) is extremely memory efficient (below 620 kilobytes) and runs at 60 hertz for a resolution of 1,920 × 1,080 pixels on a single consumer-grade graphics processing unit. Leveraging low-power on-device artificial intelligence acceleration chips, our CNN also runs interactively on mobile (iPhone 11 Pro at 1.1 hertz) and edge (Google Edge TPU at 2.0 hertz) devices, promising real-time performance in future-generation virtual and augmented-reality mobile headsets. We enable this pipeline by introducing a large-scale CGH dataset (MIT-CGH-4K) with 4,000 pairs of RGB-depth images and corresponding 3D holograms. Our CNN is trained with differentiable wave-based loss functions5 and physically approximates Fresnel diffraction. With an anti-aliasing phase-only encoding method, we experimentally demonstrate speckle-free, natural-looking, high-resolution 3D holograms. Our learning-based approach and the Fresnel hologram dataset will help to unlock the full potential of holography and enable applications in metasurface design, optical and acoustic tweezer-based microscopic manipulation, holographic microscopy and single-exposure volumetric 3D printing.

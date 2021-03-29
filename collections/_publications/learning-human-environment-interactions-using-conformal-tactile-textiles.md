@@ -1,7 +1,7 @@
 ---
 acknowlegement: This work is supported by the Toyota Research Institute. We thank L. Makatura, P. Kellnhofer, A. Kaspar and S. Sundaram for their helpful suggestions for this work. We also thank D. Rus for the use of the mechanical tester and J. L. McCann for providing us with the necessary code to programmatically work with our industrial knitting machine and visualize the knitting structure.
 authors: Yiyue Luo, Yunzhu Li, Pratyusha Sharma, Wan Shou, Kui Wu, Michael Foshey, Beichen Li, Tomás Palacios, Antonio Torralba, Wojciech Matusik 
-featured_image: /assets/images/conformal_tactile_textiles.png
+featured_image: /assets/images/conformal_tactile_textiles.jpg
 layout: publication
 project_website: http://senstextile.csail.mit.edu/
 publication: Nature Electronics

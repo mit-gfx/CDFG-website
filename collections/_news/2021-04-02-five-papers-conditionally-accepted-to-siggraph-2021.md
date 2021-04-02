@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Papers Conditionally Accepted to SIGGRAPH 2021
+title: Five papers conditionally accepted to SIGGRAPH 2021
 date: 2021-04-02 12:00:00 -0700
 show_on_homepage: true
 ---

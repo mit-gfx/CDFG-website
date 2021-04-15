@@ -3,7 +3,7 @@ acknowlegement: We thank the anonymous reviewers for their helpful comments in r
 authors: Jie Xu, Andrew Spielberg, Allan Zhao, Daniela Rus, Wojciech Matusik
 featured_image: /assets/images/moghs_teaser.jpg
 layout: publication
-project_website: moghs.csail.mit.edu
+project_website: http://moghs.csail.mit.edu
 publication: ICRA
 publication_link: https://people.csail.mit.edu/jiex/papers/MOGHS/paper.pdf
 title: Multi-Objective Graph Heuristic Search for Terrestrial Robot Design

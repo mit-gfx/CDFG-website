@@ -1,0 +1,12 @@
+---
+acknowlegement: s. This work was supported in part by National Science Foundation under Grant 1138967, IARPA Grant 2019-1902010000, in part by the National Science Foundation Graduate Research Fellowship under Grant 1122374, and in part by Fannie, and John Hertz Foundation.
+authors: Andrew Spielberg*, Alexander Amini*, Lillian Chin, Wojciech Matusik, Daniela Rus
+featured_image: /assets/images/colearningpreview.png
+layout: publication
+publication: Robotics and Autmoation Letters (RA-L)/RoboSoft
+publication_link: /assets/files/colearning_task_sensor.pdf
+title: Co-Learning Of Task And Sensor Placement For Soft Robotics
+date: 2021-04-17 12:00:00 -0700
+---
+
+Unlike rigid robots which operate with compact degrees of freedom, soft robots must reason about an infinite dimensional state space. Mapping this continuum state space presents significant challenges, especially when working with a finite set of discrete sensors. Reconstructing the robot’s state from these sparse inputs is challenging, especially since sensor location has a profound downstream impact on the richness of learned models for robotic tasks. In this work, we present a novel representation for co-learning sensor placement and complex tasks. Specifically, we present a neural architecture which processes on-board sensor information to learn a salient and sparse selection of placements for optimal task performance. We evaluate our model and learning algorithm on six soft robot morphologies for various supervised learning tasks, including tactile sensing and proprioception. We also highlight applications to soft robot motion subspace visualization and control. Our method demonstrates superior performance in task learning to algorithmic and human baselines while also learning sensor placements and latent spaces that are semantically meaningful.

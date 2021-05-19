@@ -4,7 +4,7 @@ authors: Alexandre Kaspar, Liane Makatura, Wojciech Matusik
 featured_image: /assets/images/knitting_skeletons_itok=T3E9LI61.jpg
 layout: publication
 project_website: http://knitskel.csail.mit.edu/
-publication: UIST 2019
+publication: UIST
 publication_link: /assets/files/knitting_skeletons.pdf
 title: 'Knitting Skeletons: Computer-Aided Design Tool for Shaping and Patterning
   of Knitted Garments'

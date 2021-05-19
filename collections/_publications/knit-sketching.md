@@ -6,7 +6,7 @@ featured_image: /assets/images/KnitSketching-teaser.jpg
 layout: publication
 project_website: http://knitsketching.csail.mit.edu/
 publication: SIGGRAPH
-publication_link: /assets/files/ks-paper.pdf
+_publication_link: /assets/files/ks-paper.pdf
 title: 'Knit Sketching: from Cut and Sew Patterns to Machine-Knit Garments'
 date: 2021-05-18 12:00:00 -0700
 ---

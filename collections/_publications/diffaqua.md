@@ -1,13 +1,19 @@
 ---
-show_on_homepage: true
-acknowlegement: We thank Yue Wang for the valuable discussion on the Wasserstein barycentric interpolation. We also thank the anonymous reviewers for their constructive comments. This work is supported by Intelligence Advanced Research Projects Agency (grant No. 2019-19020100001) and Defense Advanced Research Projects Agency (grant No. FA8750-20-C-0075).
-authors: Pingchuan Ma, Tao Du, John Z. Zhang, Kui Wu, Andrew Spielberg, Robert K. Katzschmann, and Wojciech Matusik
-featured_image: /assets/images/diffaqua.png
 layout: publication
-project_website: http://diffaqua.csail.mit.edu/
+title: "DiffAqua: A Differentiable Computational Design Pipeline for Soft
+  Underwater Swimmers with Shape Interpolation"
+show_on_homepage: false
 publication: SIGGRAPH
 publication_link: https://arxiv.org/pdf/2104.00837.pdf
-title: 'DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation'
+authors: Pingchuan Ma, Tao Du, John Z. Zhang, Kui Wu, Andrew Spielberg, Robert
+  K. Katzschmann, and Wojciech Matusik
+featured_image: /assets/images/diffaqua.png
+project_website: http://diffaqua.csail.mit.edu/
+acknowlegement: We thank Yue Wang for the valuable discussion on the Wasserstein
+  barycentric interpolation. We also thank the anonymous reviewers for their
+  constructive comments. This work is supported by Intelligence Advanced
+  Research Projects Agency (grant No. 2019-19020100001) and Defense Advanced
+  Research Projects Agency (grant No. FA8750-20-C-0075).
 date: 2021-05-05 12:00:00 -0700
 ---
 

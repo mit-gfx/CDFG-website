@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: 3D-Printed Autonomous Sensory Composites
-show_on_homepage: true
+show_on_homepage: false
 publication: Advanced Materials Technologies (selected as back cover image)
 publication_link: /assets/files/autonomous-sensory-composites.pdf
 authors: Subramanian Sundaram, Ziwen Jiang, Pitchaya Sitthi-Amorn, David S. Kim,

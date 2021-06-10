@@ -1,12 +1,16 @@
 ---
-acknowlegement: 'We are grateful to anonymous reviewers for their valuable feedback. This work was supported by IARPA grant no. 2019-19020100001 and NSF grant no. 1644558. M.K.L. would like to acknowledge support from the Schmidt Science Fellowship.'
-authors: Allan Zhao, Jie Xu, Mina Konakovi&cacute; Lukovi&cacute;, Josephine Hughes, Andrew Spielberg, Daniela Rus, Wojciech Matusik
-featured_image: /assets/images/robogrammar-rep-image.jpg
 layout: publication
-show_on_homepage: true
+title: "RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design"
+show_on_homepage: false
 publication: SIGGRAPH Asia
 publication_link: /assets/files/robogrammar.pdf
-title: 'RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design'
+authors: Allan Zhao, Jie Xu, Mina Konakovi&cacute; Lukovi&cacute;, Josephine
+  Hughes, Andrew Spielberg, Daniela Rus, Wojciech Matusik
+featured_image: /assets/images/robogrammar-rep-image.jpg
+acknowlegement: We are grateful to anonymous reviewers for their valuable
+  feedback. This work was supported by IARPA grant no. 2019-19020100001 and NSF
+  grant no. 1644558. M.K.L. would like to acknowledge support from the Schmidt
+  Science Fellowship.
 date: 2020-09-15 12:00:00 -0700
 ---
 

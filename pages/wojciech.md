@@ -48,7 +48,7 @@ If you are an MIT undergraduate, send me (or other group members) a short note.
 
 <hr>
 
-### [Current Group Memebers & Alumni]()
+### [Current Group Members & Alumni]()
 
 <hr>
 

@@ -42,7 +42,7 @@ If you are an MIT undergraduate, send me (or other group members) a short note.
 
 <hr>
 
-### [Current Group Members & Alumni](<>)
+### [Current Group Members & Alumni](https://cdfg.mit.edu/team)
 
 <hr>
 

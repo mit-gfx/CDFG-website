@@ -24,7 +24,7 @@ Wojciech Matusik is a Professor of [Electrical Engineering and Computer Science
 ### Research Highlights
 
 * [MIT News](https://news.mit.edu/)
-* [CSAIL](https://www.csail.mit.edu/person/wojciech-matusik)
+* [CSAIL](https://www.csail.mit.edu/research/computational-design-and-fabrication-group)
 
 <hr>
 

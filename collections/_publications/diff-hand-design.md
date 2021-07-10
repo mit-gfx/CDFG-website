@@ -1,5 +1,5 @@
 ---
-acknowlegement: We thank the anonymous reviewers for their helpful comments in revising the paper. This work is supported by Intelligence Advanced Research Projects Activity (grant No. 2019-19020100001), Defense Advanced Research Projects Agency (grant No. N66001-15-C-4030), and the National Science Foundation (grant No. CMMI-1644558).
+acknowlegement: We thank the anonymous reviewers for their helpful comments in revising the paper. Toyota Research Institute (TRI), Defense Advanced Research Projects Agency (FA8750-20-C-0075), and the National Science Foundation (CAREER1846368) provided funds to support this work.
 authors: Jie Xu, Tao Chen, Lara Zlokapa, Michael Foshey, Wojciech Matusik, Shinjiro Sueda, Pulkit Agrawal
 featured_image: /assets/images/diffhand_representative.jpg
 layout: publication

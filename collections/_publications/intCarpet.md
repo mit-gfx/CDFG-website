@@ -3,7 +3,7 @@ acknowlegement: We are grateful to all volunteers for their contributions to our
 authors: Yiyue Luo, Yunzhu Li, Michael Foshey, Wan Shou, Pratyusha Sharma, Tomás Palacios, Antonio Torralba, Wojciech Matusik
 featured_image: /assets/images/Luo_CVPR2021.png
 layout: publication
-publication: CVPR2021
+publication: CVPR
 publication_link: /assets/files/Luo_CVPR2021.pdf
 project_website: http://intcarpet.csail.mit.edu/
 title: 'IntelligentCarpet: Inferring 3D Human Pose from Tactile Signals'

@@ -1,7 +1,17 @@
 ---
 title: Robotics
 featured_image: assets/images/research-8.png
-excerpt: Computational design/simulation for robotics, soft robotics, tactile sensing/modeling, UAVs
+excerpt: Our group has strong interests in a variety of Robotics research
+  topics, including (1) efficient (differentiable) simulation tools for all
+  kinds of robotic systems (e.g. rigid robots and soft robots), (2) machine
+  learning algorithms (e.g. reinforcement learning) for robotics control, (3)
+  computational design methods for co-optimizing both the structure/shape and
+  the controller of various types of robots (e.g. robotic hand, terrestrial
+  robots, underwater robots, aerial robots, etc.) for single or multiple
+  objectives/tasks, (4) tactile sensing devices and their applications in
+  robotic control systems. Recent work has been published in top-tier robotics
+  and machine learning conferences and journals such as RSS, RAL, ICRA, ICML,
+  etc.
 image: assets/images/icon-robot.svg
 ---
 

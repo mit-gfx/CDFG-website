@@ -1,11 +1,10 @@
 ---
-categories:
-- team
-- alumni
-featured_image: assets/images/kshama_itok=xcS3SdzZ.jpg
 layout: team
-link: ''
 title: Kshama Ananthapura
+featured_image: assets/images/kshama_itok=xcS3SdzZ.jpg
+link: /
+categories:
+  - team
+  - alumni
 ---
-
-**Kshama Ananthapura** joined our group as a new administrative assistant in Janurary 2018.
+**Kshama Ananthapura** was the groups administrative assistant from January 2018 to January 2019 whereupon she accepted a position at a start up company.

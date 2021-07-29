@@ -1,11 +1,10 @@
 ---
-categories:
-- team
-- alumni
-featured_image: ''
 layout: team
-link: content/erin-buckley.html
 title: Erin Buckley
+featured_image: ""
+link: content/erin-buckley.html
+categories:
+  - team
+  - alumni
 ---
-
-**[Erin Buckley](content/erin-buckley.html)** joined the computational fabrication group as an administrative assistant II in 2019 spring.
+**[Erin Buckley](content/erin-buckley.html)** We were pleased to have Erin in our group as a temporary administrative assistant in the Spring of 2019 before she moved on to her dream job in the public sector.

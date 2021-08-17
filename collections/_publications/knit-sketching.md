@@ -5,7 +5,7 @@ show_on_homepage: false
 publication: SIGGRAPH
 authors: Alexandre Kaspar, Kui Wu, Yiyue Luo, Liane Makatura and Wojciech Matusik
 featured_image: /assets/images/KnitSketching-teaser.jpg
-_publication_link: /assets/files/ks-paper.pdf
+publication_link: /assets/files/ks-paper.pdf
 project_website: http://knitsketching.csail.mit.edu/
 date: 2021-05-18 12:00:00 -0700
 acknowledgement: We are grateful to James McCann and his group at Carnegie

@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- research staff
+- alumni
 featured_image: assets/images/tim_itok=XvN--De7.png
 layout: team
 link: https://www.linkedin.com/in/timothy-erps-15622a49/

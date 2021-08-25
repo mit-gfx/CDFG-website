@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- postdoctoral associates
+- alumni
 featured_image: assets/images/kwu_itok=MhF2hqOF.jpg
 layout: team
 link: http://www.cs.utah.edu/~kwu/

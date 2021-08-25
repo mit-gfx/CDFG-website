@@ -15,7 +15,7 @@ This is a static website using [Jekyll](https://jekyllrb.com/) and [Netlify CMS]
 
 ### Content Management
 
-This site uses Netlify CMS as front-end for editing the site content, which can be accessed at [cdfg.netlify.app/admin](https://cdfg.netlify.app/admin).
+This site uses Netlify CMS as front-end for editing the site content, which can be accessed at [cdfg-website.netlify.app/admin](https://cdfg-website.netlify.app/admin/#/collections/pages).
 
 You can also edit the markdown files in this repository directly instead of using the CMS. 
 

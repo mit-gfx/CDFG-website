@@ -6,6 +6,7 @@ publication: ACM Transactions on Graphics
 publication_link: https://dl.acm.org/doi/pdf/10.1145/3450626.3459765
 authors: B.R. Mallikarjun, A. Tewari,  A.Dib, T. Weyrich,  B. Bickel,  H-P
   Seidel,  H. Pfister, W. Matusik,  L.Chevallier,  M.Elgharib, C. Theobalt
+featured_image: /assets/images/photoapp-jpeg.jpg
 acknowlegement: This work was supported by the ERC Consolidator Grant 4DReply
   (770784). We also acknowledge support from Technicolor and InterDigital. We
   thank Tiancheng Sun for kindly helping us with the comparisons with Sun et al.

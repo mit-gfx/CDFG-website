@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fellowship
+title: CDFG member awarded Fellowship
 date: 2021-08-26T18:41:52.613Z
 show_on_homepage: true
 ---

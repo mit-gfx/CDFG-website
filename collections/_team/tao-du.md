@@ -1,11 +1,11 @@
 ---
 categories:
 - team
-- phd students
-featured_image: assets/images/tao_du_itok=zPVWYoS_.jpg
+- postdoctoral associates
+featured_image: assets/images/taodu.jpeg
 layout: team
-link: ''
+link: https://people.csail.mit.edu/taodu/
 title: Tao Du
 ---
 
-[**Tao Du**](http://people.csail.mit.edu/taodu/) joined the CDFG in September 2015, coming to us from Stanford University where he worked with Leo Guibas (amongst others).
+[**Tao Du**](http://people.csail.mit.edu/taodu/) obtained his Ph.D. in Computer Science from our group in 2021 and continues as a postdoctoral associate co-advised by [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech) and [Daniela Rus](http://danielarus.csail.mit.edu/). He works on developing computational methods to solve challenging design, simulation, and control problems in complex physics systems.

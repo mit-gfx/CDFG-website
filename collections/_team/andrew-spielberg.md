@@ -1,11 +1,11 @@
 ---
 categories:
 - team
-- phd students
+- alumni
 featured_image: assets/images/andrew_spielberg_itok=E-C8EIEg.png
 layout: team
 link: http://andrewspielberg.com/
 title: Andrew Spielberg
 ---
 
-**[Andrew Spielberg](http://andrewspielberg.com/)** is joining the CDFG part time as of fall 2015, as some of our research dovetails nicely with his current research efforts in Daniela Rus' PPM group.
+**[Andrew Spielberg](http://andrewspielberg.com/)** was a Ph.D. student at CDFG co-advised by Wojciech Matusik and Daniela Rus. He graduated from MIT with a Ph.D. in Computer Science in 2021.

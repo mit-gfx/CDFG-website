@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDFG member awarded Fellowship
+title: Liang Shi awarded Facebook Fellowship
 date: 2021-08-25T19:50:46.042Z
 show_on_homepage: true
 ---

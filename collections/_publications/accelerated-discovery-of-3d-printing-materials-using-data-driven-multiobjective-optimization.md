@@ -7,7 +7,7 @@ publication: SCIENCE ADVANCES
 publication_link: https://www.science.org/doi/epdf/10.1126/sciadv.abf7435
 authors: T. Erps, M. Foshey, M. K. Luković, W. Shou, H. H. Goetzke, H. Dietsch,
   K. Stoll, B. von Vacano, W. Matusik
-featured_image: /assets/images/accelerated-discovery-of-3d-printing-materials.jpg
+featured_image: /assets/images/3D_Printing_Materials_Optimization.JPG
 acknowlegement: >-
   Acknowledgments: We would like to thank A. Lesser, C. Saraf, and B. Ondra for
   helpful

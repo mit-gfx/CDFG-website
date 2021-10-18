@@ -2,7 +2,7 @@
 categories:
 - team
 - mascot
-featured_image: assets/images/buttercup-foshey.jpg
+featured_image: assets/images/buttercup.jpg
 layout: team
 title: Buttercup Foshey
 ---

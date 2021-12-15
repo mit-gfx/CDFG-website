@@ -1,12 +1,11 @@
 ---
-acknowlegement: We thank the anonymous reviewers for their helpful comments in revising the paper. Defense Advanced Research Projects Agency (FA8750-20-C-0075 provided funds to support this work.
+layout: publication
 authors: Jagdeep Singh Bhatia, Holly Jackson, Yunsheng Tian, Jie Xu, Wojciech Matusik
 featured_image: /assets/images/evogym_representative_image.png
-layout: publication
 project_website: https://evolutiongym.github.io/
 publication: NeurIPS
 publication_link: https://papers.nips.cc/paper/2021/hash/118921efba23fc329e6560b27861f0c2-Abstract.html
-title: Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots
+title: "Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots"
 date: 2021-12-14 12:00:00 -0700
 ---
 

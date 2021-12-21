@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Bohan Wang
-featured_image: /assets/images/bohan.jpg
+featured_image: assets/images/bohan.jpg
 link: http://www-scf.usc.edu/~bohanwan/index.html
 categories:
   - team

@@ -1,12 +1,12 @@
 ---
 show_on_homepage: false
-acknowlegement: "This material is based upon work supported by the National Science Foundation under Grant No. 1813319, the Alfred P. Sloan Foundation: Sloan Research Fellowship, Google LLC, the Boston University Rafik B. Hariri Institute for Computing and Computational Science and Engineering (2017-10-005), and the U.S. Army CCDC Soldier Center (contract W911QY2020002)."
+acknowlegement: 'This material is based upon work supported by the National Science Foundation under Grant No. 1813319, the Alfred P. Sloan Foundation: Sloan Research Fellowship, Google LLC, the Boston University Rafik B. Hariri Institute for Computing and Computational Science and Engineering (2017-10-005), and the U.S. Army CCDC Soldier Center (contract W911QY2020002).'
 authors: Aldair E. Gongora*, Siddharth Mysore*, Beichen Li*, Wan Shou, Wojciech Matusik, Elise F. Morgan, Keith A. Brown, Emily Whiting
 featured_image: /assets/images/rl-composite-design.png
 layout: publication
 publication: ACM Symposium on Computational Fabrication
 publication_link: https://dl.acm.org/doi/abs/10.1145/3485114.3485123
-title: "Designing Composites with Target Effective Young's Modulus using Reinforcement Learning"
+title: 'Designing Composites with Target Effective Young''s Modulus using Reinforcement Learning'
 date: 2021-10-28 12:00:00 -0700
 ---
 

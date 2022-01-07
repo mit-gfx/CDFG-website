@@ -2,7 +2,7 @@
 layout: team
 title: "Bolei Deng "
 featured_image: /assets/images/3c17620b-3088-415c-9640-829d3b24af65.jpeg
-link: <http://zhao.mit.edu/> <https://bertoldi.seas.harvard.edu/>
+link: '""'
 categories:
   - team
   - postdoctoral associate

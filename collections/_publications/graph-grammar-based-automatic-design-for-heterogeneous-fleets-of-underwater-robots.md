@@ -3,8 +3,8 @@ layout: publication
 title: Graph Grammar-Based Automatic Design for Heterogeneous Fleets of
   Underwater Robots
 show_on_homepage: true
-publication: "IEEE ICRA "
-publication_link: https://www.dropbox.com/s/t046rry9fuvsjtd/ICRA22_2050_FI.pdf?dl=0
+publication: "IEEE ICRA 2022"
+publication_link: /assets/files/Graph_Grammar-Based_Automatic_Design_for_Heterogeneous_Fleets_of_Underwater_Robots_ICRA22.pdf
 authors: Allan Zhao, Jie Xu, Juan Salazar, Wei Wang, Pingchuan Ma, Daniela Rus,
   and Wojciech Matusik
 featured_image: /assets/images/d0ead643-85a3-4a74-afbb-08eb56bae3d1_4_5005_c.jpeg

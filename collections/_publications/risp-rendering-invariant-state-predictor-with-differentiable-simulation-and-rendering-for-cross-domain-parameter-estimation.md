@@ -4,7 +4,7 @@ title: "RISP: Rendering-Invariant State Predictor with Differentiable Simulation
   and Rendering for Cross-Domain Parameter Estimation"
 show_on_homepage: true
 publication: ICLR
-authors: Pingchuan Ma, Tao Du, Joshua B. Tenenbaum, Wojciech Matusik, Chuang Gan
+authors: Pingchuan Ma*, Tao Du*, Joshua B. Tenenbaum, Wojciech Matusik, Chuang Gan
 featured_image: /assets/images/risp.jpg
 acknowlegement: We thank Sai Praveen Bangaru for our discussions on
   differentiable rendering. This work was supported by MIT-IBM Watson AI Lab and

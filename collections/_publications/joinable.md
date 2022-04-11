@@ -4,6 +4,7 @@ authors: Karl D.D. Willis, Pradeep Kumar Jayaraman, Hang Chu, Yunsheng Tian, Yif
 featured_image: /assets/images/joinable.png
 publication: CVPR
 publication_link: https://arxiv.org/pdf/2111.12772.pdf
+project_website: https://github.com/AutodeskAILab/Fusion360GalleryDataset/tree/master/docs#assembly-dataset
 title: "JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints"
 date: 2022-3-28 12:00:00 -0700
 ---

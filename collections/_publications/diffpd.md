@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "DiffPD: Differentiable Projective Dynamics"
-show_on_homepage: false
+show_on_homepage: true
 publication: ACM Transactions on Graphics
 authors: Tao Du, Kui Wu, Pingchuan Ma, Sebastien Wah, Andrew Spielberg, Daniela
   Rus, Wojciech Matusik

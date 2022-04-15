@@ -6,7 +6,7 @@ publication: Nature Electronics
 publication_link: https://www.nature.com/articles/s41928-021-00558-0
 authors: Yiyue Luo, Yunzhu Li, Pratyusha Sharma, Wan Shou, Kui Wu, Michael
   Foshey, Beichen Li, Tomás Palacios, Antonio Torralba, Wojciech Matusik
-featured_image: /assets/images/conformal_tactile_textiles.jpg
+featured_image: /assets/images/conformal_tactile_textiles.png
 project_website: http://senstextile.csail.mit.edu/
 acknowlegement: This work is supported by the Toyota Research Institute. We
   thank L. Makatura, P. Kellnhofer, A. Kaspar and S. Sundaram for their helpful

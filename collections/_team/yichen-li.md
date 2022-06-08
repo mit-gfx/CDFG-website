@@ -1,7 +1,7 @@
 ---
 layout: team
-title: "Yichen Li "
-featured_image: /assets/images/87a32563-f174-4106-8522-fea9b686df3b.jpeg
+title: "Yichen Li"
+featured_image: assets/images/87a32563-f174-4106-8522-fea9b686df3b.jpeg
 link: https://cs.stanford.edu/~liyichen/
 categories:
   - team

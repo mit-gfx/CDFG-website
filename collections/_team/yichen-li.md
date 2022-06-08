@@ -7,4 +7,4 @@ categories:
   - team
   - phd students
 ---
-[Yichen Li ](https://cs.stanford.edu/~liyichen/)joined our group in the spring of 2022. She received her Master’s degree from Stanford University, where she worked on 3D vision with Professor Leo Guibas.
+**[Yichen Li](https://cs.stanford.edu/~liyichen/)** joined our group in the spring of 2022. She received her Master’s degree from Stanford University, where she worked on 3D vision with Professor Leo Guibas.

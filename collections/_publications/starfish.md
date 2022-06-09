@@ -5,7 +5,7 @@ featured_image: /assets/images/starfish.jpg
 layout: publication
 project_website: http://people.csail.mit.edu/taodu/starfish/index.html
 publication: IEEE RA-L/RoboSoft
-publication_link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9392257
+publication_link: /assets/files/starfish.pdf
 title: Underwater Soft Robot Modeling and Control with Differentiable Simulation
 date: 2021-04-13 12:00:00 -0700
 ---

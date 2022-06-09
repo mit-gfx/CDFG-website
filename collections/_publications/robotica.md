@@ -3,7 +3,7 @@ layout: publication
 title: "Advanced Soft Robot Modeling in ChainQueen"
 show_on_homepage: false
 publication: Robotica
-publication_link: https://www.cambridge.org/core/journals/robotica/article/advanced-soft-robot-modeling-in-chainqueen/FACC977AC73D95935AB7122362C3CB70
+publication_link: /assets/files/robotica.pdf
 authors: Andrew Spielberg, Tao Du, Yuanming Hu, Daniela Rus, Wojciech Matusik
 featured_image: /assets/images/robotica.png
 project_website: https://www.cambridge.org/core/journals/robotica/article/advanced-soft-robot-modeling-in-chainqueen/FACC977AC73D95935AB7122362C3CB70

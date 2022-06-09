@@ -3,7 +3,7 @@ acknowlegement: This work was supported by NSF grant No. EFRI-1830901, IARPA gra
 authors: Tao Du*, Josie Hughes*, Sebastien Wah, Wojciech Matusik, Daniela Rus
 featured_image: /assets/images/starfish.jpg
 layout: publication
-project_website: http://people.csail.mit.edu/taodu/starfish/index.html
+project_website: http://starfish.csail.mit.edu/
 publication: IEEE RA-L/RoboSoft
 publication_link: /assets/files/starfish.pdf
 title: Underwater Soft Robot Modeling and Control with Differentiable Simulation

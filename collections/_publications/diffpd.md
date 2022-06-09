@@ -14,7 +14,7 @@ acknowlegement: "We thank Desai Chen, David I. W. Levin, Bo Zhu, and Eftychios
   FA8750-20-C-0075, Intelligence Advanced Research Projects Activity (IARPA)
   under Grant No. 2019-19020100001, and National Science Foundation (NSF) Award
   2106962: Computational Design of Complex Fluidic Systems."
-project_website: https://people.csail.mit.edu/taodu/diffpd/index.html
+project_website: http://diffpd.csail.mit.edu
 publication_link: /assets/files/diff_pd.pdf
 date: 2022-04-01T13:16:07.013Z
 ---

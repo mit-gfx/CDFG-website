@@ -4,6 +4,7 @@ authors: 'Tao Du, Jeevana Priya Inala, Yewen Pu, Andrew Spielberg, Adriana Schul
 featured_image: /assets/images/inverse_csg_itok=sa2IdMm7.jpg
 layout: publication
 date: 2018-01-01 12:00:00 -0700
+project_website: http://inversecsg.csail.mit.edu/
 publication: ACM SIGGRAPH ASIA 2018
 publication_link: /assets/files/inverse_csg.pdf
 title: 'InverseCSG: Automatic Conversion of 3D Models to CSG Trees'

@@ -3,7 +3,7 @@ acknowlegement: 'We thank Nobuyuki Umetani for his insightful suggestions in our
 authors: Tao Du, Adriana Schulz, Bo Zhu, Bernd Bickel, Wojciech Matusik
 featured_image: /assets/images/copter_itok=_v7Pk2s1.jpg
 layout: publication
-project_website: https://github.com/mit-gfx/multicopter_design
+project_website: http://copter.csail.mit.edu/
 publication: ACM Transactions on Graphics (SIGGRAPH Asia 2016)
 publication_link: /assets/files/copter.pdf
 title: Computational Multicopter Design

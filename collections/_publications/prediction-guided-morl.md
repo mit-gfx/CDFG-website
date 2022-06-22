@@ -3,7 +3,7 @@ acknowlegement: We thank the anonymous reviewers for their helpful comments in r
 authors: Jie Xu, Yunsheng Tian, Pingchuan Ma, Daniela Rus, Shinjiro Sueda, Wojciech Matusik
 featured_image: /assets/images/pgmorl_representative.gif
 layout: publication
-project_website: https://people.csail.mit.edu/jiex/papers/PGMORL/index.html
+project_website: http://pgmorl.csail.mit.edu/
 publication: ICML
 publication_link: /assets/files/pgmorl_icml_2020.pdf
 title: Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control

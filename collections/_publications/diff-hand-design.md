@@ -5,7 +5,7 @@ featured_image: /assets/images/diffhand_representative.jpg
 layout: publication
 project_website: http://diffhand.csail.mit.edu
 publication: RSS
-publication_link: https://people.csail.mit.edu/jiex/papers/DiffHand/paper.pdf
+publication_link: /assets/files/diffhand_rss_2021.pdf
 title: An End-to-End Differentiable Framework for Contact-Aware Robot Design
 date: 2021-07-09 12:00:00 -0700
 ---

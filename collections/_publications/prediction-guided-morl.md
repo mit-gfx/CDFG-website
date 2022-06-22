@@ -5,7 +5,7 @@ featured_image: /assets/images/pgmorl_representative.gif
 layout: publication
 project_website: https://people.csail.mit.edu/jiex/papers/PGMORL/index.html
 publication: ICML
-publication_link: https://people.csail.mit.edu/jiex/papers/PGMORL/paper.pdf
+publication_link: /assets/files/pgmorl_icml_2020.pdf
 title: Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control
 date: 2020-07-01 12:00:00 -0700
 ---

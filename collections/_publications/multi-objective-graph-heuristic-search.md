@@ -5,7 +5,7 @@ featured_image: /assets/images/moghs_teaser.jpg
 layout: publication
 project_website: http://moghs.csail.mit.edu
 publication: ICRA
-publication_link: https://people.csail.mit.edu/jiex/papers/MOGHS/paper.pdf
+publication_link: /assets/files/moghs_icra_2021.pdf
 title: Multi-Objective Graph Heuristic Search for Terrestrial Robot Design
 date: 2021-04-14 12:00:00 -0700
 ---

@@ -8,7 +8,7 @@ publication_link: /assets/files/l2fly.pdf
 authors: Jie Xu, Tao Du, Michael Foshey, Beichen Li, Bo Zhu, Adriana Schulz,
   Wojciech Matusik
 featured_image: /assets/images/learning_to_fly_itok=LAvaeIge.png
-project_website: https://people.csail.mit.edu/jiex/papers/LearningToFly/index.html
+project_website: http://learn2fly.csail.mit.edu/
 acknowlegement: "We thank Ryan Gulland, Mohammed Al Jashmi, and Abdelgadir Balla
   for providing insightful ideas of hybrid UAVs designs. This work was supported
   by Air Force Research Laboratory's sponsorship of Julia: A Fresh Approach to

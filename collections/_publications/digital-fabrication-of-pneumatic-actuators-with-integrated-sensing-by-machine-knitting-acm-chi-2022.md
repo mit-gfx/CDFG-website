@@ -2,12 +2,12 @@
 layout: publication
 title: Digital Fabrication of Pneumatic Actuators with Integrated Sensing by
   Machine Knitting
-show_on_homepage: true
-publication: "ACM CHI"
+show_on_homepage: false
+publication: ACM CHI
+publication_link: http://pneuact.csail.mit.edu/file/CHI2022.pdf
 authors: Yiyue Luo, Kui Wu, Andrew Spielberg, Michael Foshey, Tomas Palacios,
   Daniela Rus, Wojciech Matusik
 featured_image: /assets/images/chi2022_2.jpg
-publication_link: http://pneuact.csail.mit.edu/file/CHI2022.pdf
 project_website: http://pneuact.csail.mit.edu
 acknowlegement: We thank Tao Du and Wan Shou for insightful discussions. We
   thank Roger White and Mieke Moran for the administration of the project. We

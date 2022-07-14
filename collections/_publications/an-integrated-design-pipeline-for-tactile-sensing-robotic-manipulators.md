@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: An Integrated Design Pipeline for Tactile Sensing Robotic Manipulators
-show_on_homepage: true
+show_on_homepage: false
 publication: IEEE ICRA 2022
 authors: Lara Zlokapa, Yiyue Luo, Jie Xu, Michael Foshey, Kui Wu, Pulkit
   Agrawal, and Wojciech Matusik

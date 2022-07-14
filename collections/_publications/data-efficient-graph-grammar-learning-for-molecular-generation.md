@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Data-Efficient Graph Grammar Learning for Molecular Generation
-show_on_homepage: true
+show_on_homepage: false
 publication: "ICLR "
 publication_link: /assets/files/data_efficient_graph_grammar_l.pdf
 authors: Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik

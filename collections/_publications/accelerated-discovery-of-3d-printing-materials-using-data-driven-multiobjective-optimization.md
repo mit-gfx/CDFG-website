@@ -2,7 +2,7 @@
 layout: publication
 title: Accelerated discovery of 3D printing materials using data-driven
   multiobjective optimization
-show_on_homepage: true
+show_on_homepage: false
 publication: SCIENCE ADVANCES
 publication_link: https://www.science.org/doi/epdf/10.1126/sciadv.abf7435
 authors: T. Erps, M. Foshey, M. K. Luković, W. Shou, H. H. Goetzke, H. Dietsch,

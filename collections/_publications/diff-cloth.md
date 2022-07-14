@@ -1,8 +1,8 @@
 ---
 layout: publication
 title: "DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact"
-show_on_homepage: true
-publication: ACM Transactions on Graphics  
+show_on_homepage: false
+publication: ACM Transactions on Graphics
 publication_link: /assets/files/diffcloth.pdf
 authors: Yifei Li, Tao Du, Kui Wu, Jie Xu, Wojciech Matusik
 featured_image: /assets/images/diffcloth.png

@@ -1,7 +1,7 @@
 ---
 layout: team
-title: "Wenqiang (Winston) Chen "
-featured_image: https://ca.slack-edge.com/E01044K0LBZ-U042NM4BXJ9-c3d66b7447f3-512
+title: "Wenqiang (Winston) Chen"
+featured_image: assets/images/winston-chen.jpg
 link: https://people.csail.mit.edu/winstonchen/
 categories:
   - team

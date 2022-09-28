@@ -1,6 +1,6 @@
 # CDFG website
 
-This is a static website using [Jekyll](https://jekyllrb.com/) and [Netlify CMS](https://www.netlifycms.org/). 
+This is a static website using [Jekyll](https://jekyllrb.com/). 
 
 
 ### Folder Structure
@@ -11,17 +11,6 @@ This is a static website using [Jekyll](https://jekyllrb.com/) and [Netlify CMS]
 - `cdfg-theme`: see "Theme Files" below
 - `collections`: contains markdown files for the website content divided by  content type
 - `pages`: contains markdown files that define the layout and content for each of the main pages
-
-
-### Content Management
-
-This site uses Netlify CMS as front-end for editing the site content, which can be accessed at [cdfg-website.netlify.app/admin](https://cdfg-website.netlify.app/admin/#/collections/pages).
-
-You can also edit the markdown files in this repository directly instead of using the CMS. 
-
-Note: if working on the website locally, any changes made via the content manager will be published to the git repository, rather than your local files. 
-
-More information on Netlify CMS can be found in their [documentation](https://www.netlifycms.org/docs/intro/).  
 
 
 ### Local Development
@@ -47,9 +36,3 @@ In order to modify the CSS and Javascript files, you'll need to run the followin
 3. `npm install` 
 4. `gulp`
 
-
-### Deployment
-
-The site is currently hosted on [Netlify](https://www.netlify.com/) and any changes to the `master` branch will be deployed automatically. 
-
-If you want to make changes without deploying them immediately, you can create a new branch in this repository and it will automatically be deployed to `branchname--cdfg.netlify.app`. 

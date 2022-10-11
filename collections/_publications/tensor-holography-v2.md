@@ -1,13 +1,13 @@
 ---
-show_on_homepage: true
-acknowlegement: ""
-authors: Liang Shi, Beichen Li, Wojciech Matusik
-featured_image: /assets/images/LSA_22.png
 layout: publication
-project_website: http://cgh-v2.csail.mit.edu
+title: End-to-end learning of 3D phase-only holograms for holographic display
+show_on_homepage: false
 publication: Light Science and Applications
 publication_link: https://www.nature.com/articles/s41377-022-00894-6
-title: 'End-to-end learning of 3D phase-only holograms for holographic display'
+authors: Liang Shi, Beichen Li, Wojciech Matusik
+featured_image: /assets/images/LSA_22.png
+project_website: http://cgh-v2.csail.mit.edu
+acknowlegement: ""
 date: 2022-8-7 11:00:00 -0700
 ---
 

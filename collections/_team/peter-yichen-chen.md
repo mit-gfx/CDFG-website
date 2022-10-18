@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Peter Yichen Chen
-featured_image: /assets/images/7c152b6a-cea2-4407-87ec-80dbc55008ae.png
+featured_image: assets/images/7c152b6a-cea2-4407-87ec-80dbc55008ae.png
 link: https://peterchencyc.com
 categories:
   - team

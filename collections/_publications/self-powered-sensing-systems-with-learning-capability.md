@@ -8,7 +8,7 @@ authors: Avinash Alagumalai, Wan Shou, Omid Mahian, Mortaza Aghbashlo, Meisam
   Tabatabaei, Somchai Wongwises, Yong Liu, Antonio Torralba, Jun Chen, ZhongLin
   Wang, Wojciech Matusik
 featured_image: /assets/images/0eb083bb-fa5e-40cc-918e-43c0ffbda178.jpeg
-project_website: https://www.cell.com/joule/pdf/S2542-4351(22)00248-3.pdf
+project_website: ""
 acknowlegement: ""
 date: 2022-10-24T15:59:13.879Z
 ---

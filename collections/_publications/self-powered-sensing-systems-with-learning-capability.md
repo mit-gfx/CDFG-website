@@ -3,7 +3,7 @@ layout: publication
 title: Self-powered sensing systems with learning capability
 show_on_homepage: false
 publication: Joule 2022
-publication_link: /assets/images/self-powered-sensing-systems.pdf
+publication_link: /assets/images/self-powered-sensing-.pdf
 authors: Avinash Alagumalai, Wan Shou, Omid Mahian, Mortaza Aghbashlo, Meisam
   Tabatabaei, Somchai Wongwises, Yong Liu, Antonio Torralba, Jun Chen, ZhongLin
   Wang, Wojciech Matusik

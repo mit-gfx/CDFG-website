@@ -7,4 +7,4 @@ categories:
   - team
   - phd students
 ---
-[Megan Tjandrasuwita ](https://www.linkedin.com/in/megan-tjandrasuwita/)is a PhD student in Computer Science who joined CDFG in 2022. She received her Bachelor's degree in Computer Science from Caltech, where she worked in Prof. Yisong Yue's machine learning group.
+[**Megan Tjandrasuwita** ](https://www.linkedin.com/in/megan-tjandrasuwita/)is a PhD student in Computer Science who joined CDFG in 2022. She received her Bachelor's degree in Computer Science from Caltech, where she worked in Prof. Yisong Yue's machine learning group.

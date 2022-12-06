@@ -1,7 +1,7 @@
 ---
 layout: team
 title: "Wil Norton "
-featured_image: /assets/images/f06ae1fe-7cba-40d7-a849-a2c428d30ed7.jpeg
+featured_image: assets/images/f06ae1fe-7cba-40d7-a849-a2c428d30ed7.jpeg
 link: '" "'
 categories:
   - "team "

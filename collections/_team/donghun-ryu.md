@@ -7,4 +7,4 @@ categories:
   - team
   - phd students
 ---
-[DongHun Ryu ](https://sites.google.com/view/dhryu/)is a Ph.D. student at MIT’s EECS Department. His research interest lies in the intersection of optics and algorithms for developing next-generation imaging/sensing/display systems.
+[**DongHun Ryu** ](https://sites.google.com/view/dhryu/)is a Ph.D. student at MIT’s EECS Department. His research interest lies in the intersection of optics and algorithms for developing next-generation imaging/sensing/display systems.

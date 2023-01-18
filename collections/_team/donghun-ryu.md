@@ -1,7 +1,7 @@
 ---
 layout: team
 title: DongHun Ryu
-featured_image: /assets/images/63ef920e-892d-4899-ae2a-4cc8b47dd771.png
+featured_image: assets/images/63ef920e-892d-4899-ae2a-4cc8b47dd771.png
 link: https://sites.google.com/view/dhryu/
 categories:
   - team

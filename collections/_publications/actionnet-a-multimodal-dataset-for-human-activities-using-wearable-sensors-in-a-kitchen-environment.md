@@ -4,7 +4,7 @@ title: "ActionNet: A Multimodal Dataset for Human Activities Using Wearable
   Sensors in a Kitchen Environment"
 show_on_homepage: false
 publication: NeurIPS 2022
-publication_link: /assets/images/actionnet.pdf
+publication_link: /assets/images/actionsense_neurips.pdf
 authors: Joseph DelPreto∗, Chao Liu∗, Yiyue Luo, Michael Foshey, Yunzhu Li,
   Antonio Torralba, Wojciech Matusik, and Daniela Rus
 featured_image: /assets/images/3b1dff64-871c-44e8-a117-edb43348fd0c.png

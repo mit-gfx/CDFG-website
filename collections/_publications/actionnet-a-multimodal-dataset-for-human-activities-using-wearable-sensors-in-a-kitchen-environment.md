@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "ActionNet: A Multimodal Dataset for Human Activities Using Wearable
+title: "ActionSense: A Multimodal Dataset for Human Activities Using Wearable
   Sensors in a Kitchen Environment"
 show_on_homepage: false
 publication: NeurIPS 2022

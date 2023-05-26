@@ -2,7 +2,7 @@
 layout: publication
 title: "VoRF: Volumetric Relightable Faces"
 show_on_homepage: false
-publication: British Machine Vision Conference (BMVC) 2022 (Oral)
+publication: British Machine Vision Conference (BMVC) 2023 (Oral)
 publication_link: https://vcai.mpi-inf.mpg.de/projects/VoRF/
 authors: Pramod Rao, Mallikarjun B.R, Gereon Fox, Tim Weyrich, Bernd Bickel,
   Hanspeter Pfister, Wojciech Matusik, Ayush Tewari1, Christian Theobalt,

@@ -1,7 +1,7 @@
 ---
 layout: team
 title: "Young Lee "
-featured_image: /assets/images/6c1a2511-ddaa-493a-9164-4707344442c1.jpeg
+featured_image: assets/images/6c1a2511-ddaa-493a-9164-4707344442c1.jpeg
 link: https://www.linkedin.com/in/youngjoonglee/
 categories:
   - team

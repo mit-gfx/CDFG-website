@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Procedural Metamaterials"
+title: "Procedural Metamaterials: A Unified Procedural Graph for Metamaterial Design"
 show_on_homepage: false
 publication: TOG
 authors: Liane Makatura*, Bohan Wang*, Yi-Lu Chen, Bolei Deng, Chris Wojtan, Bernd Bickel, and Wojciech Matusik (* = joint first authors)

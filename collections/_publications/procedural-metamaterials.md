@@ -2,9 +2,9 @@
 layout: publication
 title: "Procedural Metamaterials: A Unified Procedural Graph for Metamaterial Design"
 show_on_homepage: false
-publication: TOG
+publication: ACM Transactions on Graphics / SIGGRAPH 2023
 authors: Liane Makatura*, Bohan Wang*, Yi-Lu Chen, Bolei Deng, Chris Wojtan, Bernd Bickel, and Wojciech Matusik (* = joint first authors)
-featured_image: assets/images/procedural_metamaterials_representative_image_rgb.jpg
+featured_image: /assets/images/procedural_metamaterials_representative_image_rgb.jpg
 publication_link: /assets/files/Procedural_Metamaterials_Main_Paper.pdf
 project_website: 
 date: 2023-06-29 12:00:00 -0700

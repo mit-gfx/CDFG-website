@@ -1,0 +1,15 @@
+---
+layout: publication
+title: "End-to-end Procedural Material Capture with Proxy-Free Mixed-Integer Optimization"
+show_on_homepage: false
+publication: SIGGRAPH 2023
+publication_link: https://dl.acm.org/doi/10.1145/3592132
+supplementary_link: /assets/files/diffmatv2_supplementary_videos.zip
+authors: Beichen Li, Liang Shi, Wojciech Matusik
+featured_image: /assets/images/diffmatv2.jpg
+date: 2023-07-26 00:00:00 -0700
+---
+
+Node-graph-based procedural materials are vital to 3D content creation within the computer graphics industry. Leveraging the expressive representation of procedural materials, artists can effortlessly generate diverse appearances by altering the graph structure or node parameters. However, manually reproducing a specific appearance is a challenging task that demands extensive domain knowledge and labor. Previous research has sought to automate this process by converting artist-created material graphs into differentiable programs and optimizing node parameters against a photographed material appearance using gradient descent. These methods involve implementing differentiable filter nodes and training differentiable neural proxies for generator nodes to optimize continuous and discrete node parameters jointly. Nevertheless, Neural Proxies exhibits critical limitations, such as long training times, inaccuracies, fixed resolutions, and confined parameter ranges, which hinder their scalability towards the broad spectrum of production-grade material graphs. These constraints fundamentally stem from the absence of faithful and efficient implementations of generic noise and pattern generator nodes, both differentiable and non-differentiable. Such deficiency prevents the direct optimization of continuous and discrete generator node parameters without relying on surrogate models.
+
+We present Diffmat v2, an improved differentiable procedural material library, along with a fully-automated, end-to-end procedural material capture framework that combines gradient-based optimization and gradient-free parameter search to match existing production-grade procedural materials against user-taken flash photos. Diffmat v2 expands the range of differentiable material graph nodes in Diffmat by adding generic noise/pattern generator nodes and user-customizable per-pixel filter nodes. This allows for the complete translation and optimization of procedural materials across various categories without the need for external proprietary tools or pre-cached noise patterns. Consequently, our method can capture a considerably broader array of materials, encompassing those with highly regular or stochastic geometries. We demonstrate that our end-to-end approach yields a closer match to the target than MATch and Neural Proxies when starting from initially unmatched continuous and discrete parameters.

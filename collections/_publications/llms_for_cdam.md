@@ -2,7 +2,7 @@
 layout: publication
 title: "How Can Large Language Models Help Humans in Design And Manufacturing?"
 show_on_homepage: false
-publication: DSpace@MIT
+publication: ArXiv
 authors: Liane Makatura, Michael Foshey, Bohan Wang, Felix Hähnlein, Pingchuan Ma, Bolei Deng, Megan Tjandrasuwita, Andrew Spielberg, Crystal Elaine Owens, Peter Yichen Chen, Allan Zhao, Amy Zhu, Wil J Norton, Edward Gu, Joshua Jacob, Yifei Li, Adriana Schulz, and Wojciech Matusik 
 featured_image: /assets/images/llm_cabinet.jpg
 publication_link: /assets/files/llms_for_cdam.pdf

@@ -4,7 +4,7 @@ title: Learning Preconditioners for Conjugate Gradient PDE Solvers
 show_on_homepage: false
 publication: ICML 2023
 publication_link: /assets/images/https-people.csail.mit.edu-yichenl-projects-preconditioner-icml2023_preconditionergnn_cameraready_revised.pdf
-authors: "Yichen Li, Peter Yichen Li, Tao Du, Wojciech Matusik "
+authors: "Yichen Li, Peter Yichen Chen, Tao Du, Wojciech Matusik"
 featured_image: /assets/images/43e343eb-0e4f-4369-8304-c95871705ca8.png
 project_website: ""
 acknowlegement: The work is supported by the MIT Robert Shillman Fellowship.

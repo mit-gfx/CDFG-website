@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- phd students
+- alumni
 featured_image: assets/images/azhao.jpg
 layout: team
 link: ''

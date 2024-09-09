@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- mascot
+- alumni
 featured_image: assets/images/rupert_deng.png
 layout: team
 title: Rupert Deng

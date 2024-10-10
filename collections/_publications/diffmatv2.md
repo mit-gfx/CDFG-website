@@ -6,7 +6,7 @@ publication: SIGGRAPH 2023
 publication_link: https://dl.acm.org/doi/10.1145/3592132
 supplementary_link: /assets/files/diffmatv2_supplementary_videos.zip
 authors: Beichen Li, Liang Shi, Wojciech Matusik
-featured_image: /assets/images/diffmatv2.jpg
+featured_image: /assets/images/diffmatv2.png
 date: 2023-07-26 00:00:00 -0700
 ---
 

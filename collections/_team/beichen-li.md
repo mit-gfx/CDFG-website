@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- phd students
+- alumni
 featured_image: assets/images/beichen.jpg
 layout: team
 link: https://people.csail.mit.edu/beichen

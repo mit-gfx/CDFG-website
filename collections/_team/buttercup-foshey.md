@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- mascot
+- alumni
 featured_image: assets/images/buttercup.jpg
 layout: team
 title: Buttercup Foshey

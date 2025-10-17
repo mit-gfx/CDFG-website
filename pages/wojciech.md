@@ -50,7 +50,7 @@ If you are an MIT undergraduate, send me (or other group members) a short note.
 
 * 6.01: Introduction to EECS I - Spring 2011, Spring 2012
 * 6.036: Machine Learning (undergraduate) - Spring 2017, Spring 2019, Spring 2020, [Spring 2021](https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp21/6.036#info)
-* 6.807: Computational Fabrication (udergraduate) - [Spring 2014](http://stellar.mit.edu/S/course/6/sp14/6.S079/index.html), [Spring 2015](http://stellar.mit.edu/S/course/6/sp15/6.S079/index.html), [Spring 2016](http://stellar.mit.edu/S/course/6/sp16/6.807/index.html), [Fall 2018](https://stellar.mit.edu/S/course/6/fa18/6.807/),[ Fall 2019](https://stellar.mit.edu/S/course/6/fa19/6.807/)
+* 6.807: Computational Fabrication (undergraduate) - [Spring 2014](http://stellar.mit.edu/S/course/6/sp14/6.S079/index.html), [Spring 2015](http://stellar.mit.edu/S/course/6/sp15/6.S079/index.html), [Spring 2016](http://stellar.mit.edu/S/course/6/sp16/6.807/index.html), [Fall 2018](https://stellar.mit.edu/S/course/6/fa18/6.807/),[ Fall 2019](https://stellar.mit.edu/S/course/6/fa19/6.807/)
 * 6.837: Computer Graphics - [Fall 2011](http://stellar.mit.edu/S/course/6/fa11/6.837/index.html), [Fall 2012](http://stellar.mit.edu/S/course/6/fa12/6.837/index.html), [Fall 2013](http://stellar.mit.edu/S/course/6/fa13/6.837/index.html), [Fall 2015](http://stellar.mit.edu/S/course/6/fa15/6.837/index.html), [Fall 2016](http://stellar.mit.edu/S/course/6/fa16/6.837/index.html)
 * 6.838: Computational Fabrication (graduate) - [Spring 2013](http://stellar.mit.edu/S/course/6/sp13/6.838/index.html)
 * 6.839: Advanced Computer Graphics (graduate) - Fall 2018, [Fall 2019](https://stellar.mit.edu/S/course/6/fa19/6.839/)
@@ -60,7 +60,7 @@ If you are an MIT undergraduate, send me (or other group members) a short note.
 
 ### Contact
 
-The Stata Center, Building 32-312<br>
+The Stata Center, Building 32-333<br>
 32 Vassar Street<br>
 Cambridge, MA 02139
 

@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- phd students
+- alumni
 featured_image: assets/images/yunsheng-tian-photo.jpg
 layout: team
 link: 'http://people.csail.mit.edu/yunsheng/'

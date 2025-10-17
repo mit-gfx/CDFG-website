@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- ms/mseng students
+- alumni
 featured_image: assets/images/devin_murphy.jpg
 layout: team
 link: https://www.linkedin.com/in/devin-murphy-78947318b/

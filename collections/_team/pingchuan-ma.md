@@ -1,7 +1,7 @@
 ---
 categories:
 - team
-- phd students
+- alumni
 featured_image: assets/images/pingchuan-ma-profile.jpg
 layout: team
 link: https://pingchuan.ma

@@ -8,4 +8,4 @@ link: https://frank-zy-dou.github.io/
 title: Zhiyang (Frank) Dou
 ---
 
-**[Zhiyang (Frank) Dou](https://frank-zy-dou.github.io/)** joined CDFG in 2025 fall as a PhD student. His research interests include simulation (physics-based and cognitive/psychological), robotics, neurosymbolic AI, computer graphics (character animation and geometric computing), and human behavior analysis.
+**[Zhiyang (Frank) Dou](https://frank-zy-dou.github.io/)** joined CDFG in Fall 2025 as a PhD student. His research interests include simulation (physics-based and cognitive/psychological), robotics, neurosymbolic AI, computer graphics (character animation and geometric computing), and human behavior analysis.
